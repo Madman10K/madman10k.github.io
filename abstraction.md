@@ -3,11 +3,11 @@ I have been making a game engine for the past year and in the last 3 months one 
 Abstraction is where you create an archutecture where you try to hide implementation details. It is usually used in things like libraries and frameworks where there may be users or other teams that do not engineer the API and don't know it.
 ## Abstract classes
 So everyone knows about classes having visbility which can hide functions and variables that outside classes may not need to use or see.
-But it doesn't end there because in C++ there is a feature in C++ called abstract classes but first let's talk about virtual functions real quick
+But it doesn't end there because in C++ there is a feature called abstract classes but first let's talk about virtual functions real quick
 ### Virtual functions
 Virtual functions are functions which can be overriden by class derivatives and it's important that some people will really hate on you for using them because they are stored in a vtable which can slow down performance a little bit
 ### Pure virtual functions
-Now that we know what virtual functions are we can now move to pure virtual functions or interfaces. These functions do not hold any functionality in the base class which makes the base xlass impossible to instantiate. This means that this root class that contains these functions is now an abstract class.
+Now that we know what virtual functions are we can now move to pure virtual functions or interfaces. These functions do not hold any functionality in the base class which makes the base class impossible to instantiate. This means that this root class that contains these functions is now an abstract class.
 So abstract classes are useful for a couple of reasons but the main 3 are listed below
 - You can pass in any derivative by just using a root class pointer as an argument
 - Requides you to create class derivatives
