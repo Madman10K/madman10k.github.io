@@ -8,3 +8,7 @@ I am Stanislav Vasilev also known as "Madman10K". I am a game developer from Sof
 - Untitled Chat Application - Chat application for mobile in Dart and Flutter
 - https://madladsquad.com/ - Backend for the madladsquad site
 - https://api.madladsquad.com/ - Anomaly API 
+## Links
+### Blog
+- [Abstraction](https://madman10k.online/abstraction)
+- [Pipes and C++](https://madman10k.online/cpp-pipes)
