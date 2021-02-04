@@ -12,5 +12,8 @@ I am Stanislav Vasilev also known as "Madman10K". I am a game developer from Sof
 ### Blog
 - [Abstraction](https://madman10k.online/abstraction)
 - [Pipes and C++](https://madman10k.online/cpp-pipes)
+- [Why I use C++ instead of C](https://madman10k.online/why-i-use-cpp-instead-of-c/)
+- [Why Funtoo is better than gentoo](https://madman10k/funtoo/)
+- []()
 ### Experiments
 - [Shaders](https://madman10k.online/shaders/shaders.html)
