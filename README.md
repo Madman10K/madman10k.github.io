@@ -10,11 +10,4 @@ I am Stanislav Vasilev also known as "Madman10K". I am a game developer from Sof
 - https://api.madladsquad.com/ - Anomaly API 
 ## Links
 ### Blog
-- [Abstraction](https://madman10k.online/abstraction)
-- [Pipes and C++](https://madman10k.online/cpp-pipes)
-- [Why I use C++ instead of C](https://madman10k.online/why-i-use-cpp-instead-of-c/)
-- [Why Funtoo is better than gentoo](https://madman10k/funtoo/)
-- [From UE4 to making my own game engine](https://madman10k.online/from-ue4-to-my-own-engine)
-- [Game engine design](https://madman10k.online/game-engine-design)
-### Experiments
-- [Shaders](https://madman10k.online/shaders/shaders.html)
+- Coming soon
