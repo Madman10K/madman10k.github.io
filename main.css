@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+
+li{
+    font-size: 20px;
+}
+
+.nav{
+    /*position: absolute;
+    width: 100%;
+    background-color: #1d2021;
+    margin-right: 4vw;
+    */
+    width: 100%;
+    background-color: #1d2021;
+    position: fixed;
+}
+
+.nav li{
+    padding-left: 75px;
+    list-style-type: none;
+    display: inline;
+}
+
+.footer-list li{
+    font-size: 14px;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #303f33;
+}
+
+body{
+    background-image: url("pexels-artem-beliaikin-853199.jpg");
+    background-color: white;
+    background-size: cover;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+h1{
+    margin-top: 5vw;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
+
+p{
+    margin-top: 5vw;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #1d2021;
+    display: flex;
+    /*float: left;*/
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+}
+
+footer div{
+
+}
+
+.footer-desc{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.footer-list{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.footer-desc p{
+    max-width: 150px;
+    color: white;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 1vw;
+}
+
+
+a:link{
+    text-decoration: none;
+    color: #515455;
+}
+
+a:visited{
+    color: #515455;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+.second-nav-item{
+    padding-left: 150px;
+}
+
