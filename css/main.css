@@ -3,6 +3,7 @@
 }
 
 li{
+    list-style-type: none;
     font-size: 20px;
 }
 
@@ -14,11 +15,24 @@ li{
     */
     width: 100%;
     background-color: #1d2021;
-    position: fixed;
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
 
 .nav li{
-    padding-left: 75px;
+    list-style-type: none;
+    display: inline;
+}
+
+.site-name-nav{
+    margin-left: 5vw;
+    display: inline;
+    list-style-type: none;
+}
+
+.regular-nav{
+    margin-left: 5vw;
     list-style-type: none;
     display: inline;
 }
@@ -38,6 +52,20 @@ body{
     background-color: white;
     background-size: cover;
     font-family: 'JetBrains Mono', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body::-webkit-scrollbar{
+    width: 0.25rem;
+}
+
+body::-webkit-scrollbar-track{
+    background: #1d2021;
+}
+
+body::-webkit-scrollbar-thumb{
+    background: #515455;
 }
 
 h1{
@@ -71,8 +99,8 @@ p{
 footer{
     width: 100%;
     position: absolute;
-    bottom: 0;
-    left: 0;
+    bottom: 0px;
+    left: 0px;
     background-color: #1d2021;
     display: flex;
     /*float: left;*/
@@ -122,3 +150,34 @@ a:hover{
     padding-left: 150px;
 }
 
+.project-grid{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(autofill, minmax(75px, 1fr));
+
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #1d2021;
+    font-size: 16px;
+    color: #fff;
+    box-shadow: #1d2021 0px 0.15rem 0.5rem, #1d2021 0px 0.075rem 0.175rem;
+    height: 100%;
+    width: 100%;
+    border-radius: 4px;
+    transition: all 500ms;
+    overflow: hidden;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
+  
+.project-card:hover {
+    box-shadow: rgba(2, 8, 20, 0.1) 0px 0.35em 1.175em, rgba(2, 8, 20, 0.08) 0px 0.175em 0.5em;
+    transform: translateY(-3px) scale(1.1);
+ }
