@@ -96,11 +96,12 @@ p{
     margin-top: 5vw;
 }
 
-footer{
+.footer{
     width: 100%;
-    position: absolute;
+    clear: both;
     bottom: 0px;
     left: 0px;
+
     background-color: #1d2021;
     display: flex;
     /*float: left;*/
