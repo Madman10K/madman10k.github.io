@@ -169,6 +169,10 @@ a:hover{
     margin-left: 5vw;
     margin-right: 5vw;
     padding: 1vw;
+    border: black;
+    border-style: solid;
+    border-width: 0.2vw;
+    border-radius: 0.5vw;
 }
 
 .project-card p{
