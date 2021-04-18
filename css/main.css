@@ -89,7 +89,6 @@ p{
 }
 
 .title p{
-    margin-top: 5vw;
 }
 
 .title h1{
@@ -154,12 +153,12 @@ a:hover{
 
     display: grid;
     margin-top: 5vw;
-    margin-bottom: 10vw;
+    margin-bottom: 5vw;
     gap: 1rem;
     grid-template-areas: 
-    "UVK UVTE UPM"
+    "UVGE UVTE UPM"
     "Crimson Anomaly imtty"
-    "Spoon DiscorFW ULog";
+    "Spoon DFW ULog";
     justify-content: center;
 }
 
@@ -169,10 +168,11 @@ a:hover{
     text-align: center;
     margin-left: 5vw;
     margin-right: 5vw;
+    padding: 1vw;
 }
 
 .project-card p{
-    color: black;
+    color: #1d2021;
     font-size: 16px;
 }
 
