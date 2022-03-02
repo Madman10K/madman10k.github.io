@@ -48,6 +48,7 @@ Additionally sometimes I also dabble into the following fields:
 1. Creative writing and storytelling
 1. Electronics
 1. Playing videogames
+
 ## Stuff nobody cares about
 1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact, but I am well versed in [arch linux](https://archlinux.org/) because I use it in a container for gaming using the [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager)
 1. I write in 🇬🇧 english
