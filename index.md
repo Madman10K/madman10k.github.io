@@ -1,10 +1,10 @@
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
 ## About
-I was born in the country of Bulgaria 🇧(which is in the 🇪 by the way) and still live in the biggest city and capital. I currently study general subjects, with the addition of foreign languages with 🇬 being the main and 🇩 as a secondary language, level below:
-1. Bulgarian 🇧 - native
-1. English 🇬 - highly fluent
-1. German 🇩 - beginner level
+I was born in the country of Bulgaria 🇧🇬(which is in the 🇪🇺 by the way) and still live in the biggest city and capital. I currently study general subjects, with the addition of foreign languages with 🇬🇧 being the main and 🇩🇪 as a secondary language, level below:
+1. Bulgarian 🇧🇬 - native
+1. English 🇬🇧 - highly fluent
+1. German 🇩🇪 - beginner level
 
 I started programming when I was 12 with the idea to start making games and other entertainment products using software. I started with Unity but found it very hard to use so after a month of using it, I switched to using [Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released) with which I spent 2 years building games.
 
@@ -49,6 +49,6 @@ Additionally sometimes I also dabble into the following fields:
 1. Playing videogames
 ## Stuff nobody cares about
 1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact, but I am well versed in [arch linux](https://archlinux.org/) because I use it in a container for gaming using the [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager)
-1. I write in 🇬 english
+1. I write in 🇬🇧 english
 1. I like music 80s pop music, lofi, dark electronic and sometimes metal, playlists here [lofi](https://www.youtube.com/playlist?list=PL8yFU3veFghtteYYFdSnc-vaBZ3hHh4Wc), [sigma male grindset](https://www.youtube.com/playlist?list=PL8yFU3veFghvVpWseRViePuvSv4NQ0O9E), [random](https://www.youtube.com/playlist?list=PL8yFU3veFghsQwd2tTsYFn7ejZ7OlsFcm)
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
