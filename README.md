@@ -30,6 +30,7 @@ with multiple more projects planned for later. All of them are created under [Ma
 - E-mail: stanv.contact176@gmail.com
 - Discord server for MadLad Squad: <https://discord.gg/j8XZCPY>
 - Discord username: Madman10K#0345
+
 ## Hobbies
 I have the following hobbies and interests as my main ones:
 1. Programming
