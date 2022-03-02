@@ -54,3 +54,4 @@ Additionally sometimes I also dabble into the following fields:
 1. I write in 🇬🇧 english
 1. I like music 80s pop music, lofi, dark electronic and sometimes metal, playlists here [lofi](https://www.youtube.com/playlist?list=PL8yFU3veFghtteYYFdSnc-vaBZ3hHh4Wc), [sigma male grindset](https://www.youtube.com/playlist?list=PL8yFU3veFghvVpWseRViePuvSv4NQ0O9E), [random](https://www.youtube.com/playlist?list=PL8yFU3veFghsQwd2tTsYFn7ejZ7OlsFcm)
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
+
