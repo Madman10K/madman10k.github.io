@@ -1,7 +1,7 @@
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
 ## About
-I was born in the country of Bulgaria 🇧🇬(which is in the 🇪🇺 by the way) and still live in the biggest city and capital. I currently study general subjects, with the addition of foreign languages with 🇬🇧 being the main and 🇩🇪 as a secondary language, level below:
+I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia. I currently study general subjects, with the addition of foreign languages with 🇬🇧 being the main and 🇩🇪 as a secondary language, level below:
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - highly fluent
 1. German 🇩🇪 - beginner level
@@ -54,4 +54,5 @@ Additionally sometimes I also dabble into the following fields:
 1. I write in 🇬🇧 english
 1. I like music 80s pop music, lofi, dark electronic and sometimes metal, playlists here [lofi](https://www.youtube.com/playlist?list=PL8yFU3veFghtteYYFdSnc-vaBZ3hHh4Wc), [sigma male grindset](https://www.youtube.com/playlist?list=PL8yFU3veFghvVpWseRViePuvSv4NQ0O9E), [random](https://www.youtube.com/playlist?list=PL8yFU3veFghsQwd2tTsYFn7ejZ7OlsFcm)
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
-
+## Blog
+Coming soon!
