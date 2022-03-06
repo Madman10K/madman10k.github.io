@@ -61,3 +61,4 @@ Random rambling about software, philosophy and politics
 1. [On the metaverse](blog/on-the-metaverse.md)
 1. [On social media](blog/on-social-media.md)
 1. [Performance/convenience in programming](blog/performance-convenience-programming.md)
+ 
