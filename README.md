@@ -16,14 +16,23 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 1. Forgotten game using Unity - January - February 2018
 1. Multiple forgotten singleplayer games with various Unreal Engine versions - April 2018 to August 2019
 1. A multiplayer FPS game using UE4 - September 8th 2019 - August 31st 2020
-1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - May 4th 2020 - now
-1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - August 2021 - now
-1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - December 21st 2021 - now
-1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - December 12th 2020 - now
+1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - since May 4th 2020
+1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - since August 2021
+1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - since December 21st 2021
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - since December 12th 2020
 1. UntitledVukanTerminalEmulator, ImTTY, UntitledTerminalEmulatorBackend, UntitledEscapeParser - Pending to start development
-1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - February 1st - now
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since February 1st 2022
+1. UntitledDesktopEnvironment and other unannounced projects - since June 20th 2022
 
 with multiple more projects planned for later. All of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
+## Work experience
+I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
+1. Fixing bugs
+1. Refactoring, modernizing and cleaning up a codebase
+1. Porting a codebase from Windows to Unix or vice versa
+1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general software development work
+
+Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
 ## Contact
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
@@ -35,7 +44,7 @@ with multiple more projects planned for later. All of them are created under [Ma
 I have the following hobbies and interests as my main ones:
 1. Programming
 1. Economics and Business
-1. Geopolitics(Europe, Asia, North America, Africa)
+1. Geopolitics
 1. European Politics
 1. City planning
 1. Modern European history(1700-now)
@@ -50,15 +59,6 @@ Additionally sometimes I also dabble into the following fields:
 1. Playing videogames
 
 ## Stuff nobody cares about
-1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact, but I am well versed in [arch linux](https://archlinux.org/) because I use it in a container for gaming using the [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager)
+1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact
 1. I write in 🇬🇧 english
-1. I like music 80s pop music, lofi, dark electronic and sometimes metal, playlists here [lofi](https://www.youtube.com/playlist?list=PL8yFU3veFghtteYYFdSnc-vaBZ3hHh4Wc), [sigma male grindset](https://www.youtube.com/playlist?list=PL8yFU3veFghvVpWseRViePuvSv4NQ0O9E), [random](https://www.youtube.com/playlist?list=PL8yFU3veFghsQwd2tTsYFn7ejZ7OlsFcm)
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
-
-## Blog
-Random rambling about software, philosophy and politics
-
-1. [On the metaverse](blog/on-the-metaverse.md)
-1. [On social media](blog/on-social-media.md)
-1. [Performance/convenience in programming](blog/performance-convenience-programming.md)
- 
