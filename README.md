@@ -1,5 +1,6 @@
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
+
 ## About
 I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia.
 
@@ -22,6 +23,7 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 1. UntitledDesktopEnvironment and other unannounced projects - since June 20th 2022
 
 with multiple more projects planned for later. All of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
+
 ## Work experience
 I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
 1. Fixing bugs
@@ -34,6 +36,7 @@ Outside of this, since I was in my period of game development January 2018 to De
 I have a lot of experience in C and C++ as they have been my main languages for over 3 years. I use both old and new C++ features in my projects and am accustomed to working with both new and legacy standard library C++
 
 Outside of this I also know a bit of Golang, have written a good number of bash scripts, and made some websites with javascript
+
 ## Languages
 I am a polyglot/multilingual(polyglot doesn't fit my language knowledge according to some definitions) and can speak 4 languages with various degrees of success.
 1. Bulgarian 🇧🇬 - native
@@ -47,6 +50,7 @@ Additionaly I also understand certain parts of the following languages:
 1. Russian 🇷🇺 - I can understand from 40-80% of it depending on the text, and I still can't read or write in it
 1. Japanese 🇯🇵 - I can read the 2 alphabets and know a good number of kanji from my Chinese knowledge so I can guess some meaning from that, but I don't know any words or grammar so I can say that I don't know it
 1. As a final note, I can probably understand some germanic languages, like 🇳🇱 or 🇩🇰 but I am really not sure about it at all. I do know that I can read limited ammounts of 🇨🇿 and 🇵🇱 but I am really pushing my ability to guess the meaning of a text at this point
+
 ## Contact
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
