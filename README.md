@@ -1,10 +1,7 @@
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
 ## About
-I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia. I currently study general subjects, with the addition of foreign languages with 🇬🇧 being the main and 🇩🇪 as a secondary language, level below:
-1. Bulgarian 🇧🇬 - native
-1. English 🇬🇧 - highly fluent
-1. German 🇩🇪 - beginner level
+I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia.
 
 I started programming when I was 12 with the idea to start making games and other entertainment products using software. I started with Unity but found it very hard to use so after a month of using it, I switched to using [Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released) with which I spent 2 years building games.
 
@@ -26,13 +23,30 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 
 with multiple more projects planned for later. All of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
 ## Work experience
-I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
+I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
 1. Fixing bugs
 1. Refactoring, modernizing and cleaning up a codebase
 1. Porting a codebase from Windows to Unix or vice versa
 1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general software development work
 
 Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
+## Programming knowledge
+I have a lot of experience in C and C++ as they have been my main languages for over 3 years. I use both old and new C++ features in my projects and am accustomed to working with both new and legacy standard library C++
+
+Outside of this I also know a bit of Golang, have written a good number of bash scripts, and made some websites with javascript
+## Languages
+I am a polyglot/multilingual(polyglot doesn't fit my language knowledge according to some definitions) and can speak 4 languages with various degrees of success.
+1. Bulgarian 🇧🇬 - native
+1. English 🇬🇧 - highly fluent
+1. German 🇩🇪 - upper beginner level
+1. Mandarin Chinese(simplified) 🇨🇳 - lower beginner level
+
+Additionaly I also understand certain parts of the following languages:
+1. Macedonian 🇲🇰 - I can understand 90% of it, but I cannot speak or write in it due to not knowing the gramatical norms and getting confused with bulgarian rules
+1. Serbo-Croatian 🇷🇸🇭🇷 - I can understand about 75-80% of it, but I cannot speak or write in it
+1. Russian 🇷🇺 - I can understand from 40-80% of it depending on the text, and I still can't read or write in it
+1. Japanese 🇯🇵 - I can read the 2 alphabets and know a good number of kanji from my Chinese knowledge so I can guess some meaning from that, but I don't know any words or grammar so I can say that I don't know it
+1. As a final note, I can probably understand some germanic languages, like 🇳🇱 or 🇩🇰 but I am really not sure about it at all. I do know that I can read limited ammounts of 🇨🇿 and 🇵🇱 but I am really pushing my ability to guess the meaning of a text at this point
 ## Contact
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
@@ -43,6 +57,7 @@ Outside of this, since I was in my period of game development January 2018 to De
 ## Hobbies
 I have the following hobbies and interests as my main ones:
 1. Programming
+1. Language learning
 1. Economics and Business
 1. Geopolitics
 1. European Politics
