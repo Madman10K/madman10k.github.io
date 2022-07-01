@@ -48,7 +48,7 @@ Additionaly I also understand certain parts of the following languages:
 1. Macedonian 🇲🇰 - I can understand 90% of it, but I cannot speak or write in it due to not knowing the gramatical norms and getting confused with bulgarian rules
 1. Serbo-Croatian 🇷🇸🇭🇷 - I can understand about 75-80% of it, but I cannot speak or write in it
 1. Russian 🇷🇺 - I can understand from 40-80% of it depending on the text, and I still can't read or write in it
-1. Japanese 🇯🇵 - I can read the 2 alphabets and know a good number of kanji from my Chinese knowledge so I can guess some meaning from that, but I don't know any words or grammar so I can say that I don't know it
+1. Japanese 🇯🇵 - I can read the 2 alphabets and know a limited number of kanji from my Chinese knowledge so I can guess some meaning from that, but I don't know any words or grammar so I can say that I don't know it
 1. As a final note, I can probably understand some germanic languages, like 🇳🇱 or 🇩🇰 but I am really not sure about it at all. I do know that I can read limited ammounts of 🇨🇿 and 🇵🇱 but I am really pushing my ability to guess the meaning of a text at this point
 
 ## Contact
