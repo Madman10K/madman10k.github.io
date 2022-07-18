@@ -40,9 +40,9 @@ Outside of this I also know a bit of Golang, have written a good number of bash 
 ## Languages
 I am a polyglot/multilingual(polyglot doesn't fit my language knowledge according to some definitions) and can speak 4 languages with various degrees of success.
 1. Bulgarian 🇧🇬 - native
-1. English 🇬🇧 - highly fluent
-1. German 🇩🇪 - upper beginner level
-1. Mandarin Chinese(simplified) 🇨🇳 - lower beginner level
+1. English 🇬🇧 - between C1 and C2
+1. German 🇩🇪 - almost A2
+1. Mandarin Chinese(simplified) 🇨🇳 - HSK2
 
 Additionaly I also understand certain parts of the following languages:
 1. Macedonian 🇲🇰 - I can understand 95% of it, but I cannot speak or write in it due to not knowing the gramatical norms and getting confused with bulgarian rules
