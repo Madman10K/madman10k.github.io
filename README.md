@@ -82,5 +82,5 @@ Additionally sometimes I also dabble into the following fields:
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
-1. [Why retained mode gui is bad](https://madman10k.github.io/retained-mode-guis)
+1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis)
 
