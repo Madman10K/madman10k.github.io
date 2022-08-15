@@ -40,15 +40,15 @@ Outside of this I also know a bit of Golang, have written a good number of bash 
 ## Languages
 I am a polyglot/multilingual(polyglot doesn't fit my language knowledge according to some definitions) and can speak 5 languages with various degrees of success.
 1. Bulgarian 🇧🇬 - native
-1. Macedonian 🇲🇰 - I can perfectly read, listen and understand the language like a native speaker but I make many gramatical mistakes during talking and writing due to it overlapping with my Bulgarian knowledge
 1. English 🇬🇧 - between C1 and C2
-1. German 🇩🇪 - almost A2
+1. German 🇩🇪 - A2
 1. Mandarin Chinese(simplified) 🇨🇳 - HSK2
 
-Additionaly I also understand certain parts of the following languages:
-1. Serbo-Croatian 🇷🇸🇭🇷 - I can understand about 75-80% of it, but I cannot speak or write in it
-1. Russian 🇷🇺 - I can understand from 40-80% of it depending on the text, and I still can't read or write in it
-1. Japanese 🇯🇵 - I can read the 2 alphabets and know a limited number of kanji from my Chinese knowledge so I can guess some meaning from that, but I don't know any words or grammar so I can say that I don't know it
+Additionally sometimes when I'm not learning Mandarin or German I learn the following languages:
+1. Russian 🇷🇺
+1. Macedonian 🇲🇰
+1. Serbo-Croatian 🇷🇸🇭🇷
+1. Japanese 🇯🇵
 
 ## Contact
 - Github: <https://github.com/Madman10K>
