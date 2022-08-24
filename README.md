@@ -13,16 +13,23 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 ## Projects
 1. Forgotten game using Unity - January - February 2018
 1. Multiple forgotten singleplayer games with various Unreal Engine versions - April 2018 to August 2019
-1. A multiplayer FPS game using UE4 - September 8th 2019 - August 31st 2020
-1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - since May 4th 2020
+1. A multiplayer FPS game using UE4 - September 8th 2019 - 31st of August 2020
+1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - since 4th of May 2020
 1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - since August 2021
-1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - since December 21st 2021
-1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - since December 12th 2020
+1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - since 21st of December 2021
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - since the 12th of December 2020
 1. UntitledVukanTerminalEmulator, ImTTY, UntitledTerminalEmulatorBackend, UntitledEscapeParser - Pending to start development
-1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since February 1st 2022
-1. UntitledDesktopEnvironment and other unannounced projects - since June 20th 2022
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since 1st of February 2022
+1. UntitledDesktopEnvironment and other unannounced projects - since  20th of June 2022
+1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) and other package support in [Funtoo Linux](https://funtoo.org/) - Since 1st of August 2022
 
 with multiple more projects planned for later. All of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
+
+## Current projects
+I am currently working on the following projects:
+- UntitledDesktopEnvironment
+- [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) support in [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
+- Supporting the projects with no finished date in the timeline when support it is needed
 
 ## Work experience
 I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
