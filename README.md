@@ -23,7 +23,7 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 1. UntitledDesktopEnvironment and other unannounced projects - since  20th of June 2022
 1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) and other package support in [Funtoo Linux](https://funtoo.org/) - Since 1st of August 2022
 
-with multiple more projects planned for later. All of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
+with multiple more projects planned for later. The large majority of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
 
 ## Current projects
 I am currently working on the following projects:
