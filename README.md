@@ -90,4 +90,4 @@ Additionally sometimes I also dabble into the following fields:
 
 ## Blog about stuff you don't care about
 1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis)
-
+2. [Personal funtoo guide](https://i-use-gentoo-btw.com/personal-funtoo-guide)
