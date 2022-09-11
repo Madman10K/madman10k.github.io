@@ -1,3 +1,4 @@
+# Personal Funtoo development guide
 I have been a funtoo user for some 1 year now and I wanted to put this guide here in case I forget 90% of what I learned or 
 I want to show someone a quickstart guide to funtoo development.
 
