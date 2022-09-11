@@ -512,7 +512,7 @@ pkg_postrm() {
 	gnome3_schemas_update
 }
 ```
-notice how in the `SRC_URI` we have substituted `{% raw %}{{ artifacts[0].src_uri }}{% raw %}` to a valid URL.
+notice how in the `SRC_URI` we have substituted `{% raw %}{{ artifacts[0].src_uri }}{% endraw %}` to a valid URL.
 
 Next to use the ebuild, run the `ebuild` command like this
 ```sh
@@ -790,8 +790,8 @@ inherit user
 
 DESCRIPTION="Rime configuration manager and input schema repository"
 HOMEPAGE="https://rime.im/ https://github.com/rime/plum"
-SRC_URI="{% for artifact in artifacts %}
-	{% raw %}{{artifact.src_uri}}{% endfor %}{% endraw %}"
+SRC_URI="{% raw %}{% for artifact in artifacts %}
+	{{artifact.src_uri}}{% endfor %}{% endraw %}"
 
 LICENSE="GPL-3 LGPL-3 extra? ( Apache-2.0 )"
 SLOT="0"
