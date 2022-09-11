@@ -276,7 +276,7 @@ inherit gnome3-utils xdg
 
 DESCRIPTION="M17N engine for IBus"
 HOMEPAGE="https://github.com/ibus/ibus/wiki"
-SRC_URI="{{ artifacts[0].src_uri }}"
+SRC_URI="\{\{ artifacts[0].src_uri \}\}"
 
 LICENSE="GPL-2+"
 SLOT="0"
@@ -294,17 +294,6 @@ BDEPEND="sys-devel/gettext
 
 src_configure() {
 	econf \
-DESCRIPTION="M17N engine for IBus"
-HOMEPAGE="https://github.com/ibus/ibus/wiki"
-SRC_URI="{{ artifacts[0].src_uri }}"
-
-LICENSE="GPL-2+"
-SLOT="0"
-KEYWORDS="*"
-IUSE="gtk nls"
-
-DEPEND="app-i18n/ibus
-	dev-libs/m17n
 		$(use_enable nls) \
 		$(use_with gtk gtk 3.0)
 }
@@ -324,7 +313,7 @@ pkg_postrm() {
 	gnome3_schemas_update
 }
 ```
-Notice how on line `9`, we use the syntax `{{ artifacts[0].src_uri }}` for the `SRC_URI` variable, this is a jinja declaration, more info on the different
+Notice how on line `9`, we use the syntax `\{\{ artifacts[0].src_uri \}\}` for the `SRC_URI` variable, this is a jinja declaration, more info on the different
 variables passed to jinja later in the document. Just know that this syntax is the only thing you need to know for simple `yaml` autogens
 
 ### Python autogens
@@ -439,7 +428,7 @@ inherit linux-mod
 
 DESCRIPTION="Realtek 8192EU driver module for Linux kernel"
 HOMEPAGE="https://github.com/Mange/rtl8192eu-linux-driver"
-SRC_URI="{{ artifacts[0].src_uri }}"
+SRC_URI="\{\{ artifacts[0].src_uri \}\}"
 
 LICENSE="GPL-2"
 KEYWORDS="~amd64 ~x86"
@@ -451,7 +440,7 @@ BUILD_TARGETS="all"
 
 src_unpack() {
 	unpack ${A}
-	mv "${WORKDIR}"/{{ github_repo }}-* "${S}"
+	mv "${WORKDIR}"/\{\{ github_repo \}\}-* "${S}"
 }
 ```
 notice how we access the `github_repo` variable in the last line of the `src_unpack` function and how the `SRC_URI` variable has the same value
@@ -523,7 +512,7 @@ pkg_postrm() {
 	gnome3_schemas_update
 }
 ```
-notice how in the `SRC_URI` we have substituted `{{ artifacts[0].src_uri }}` to a valid URL.
+notice how in the `SRC_URI` we have substituted `\{\{ artifacts[0].src_uri \}\}` to a valid URL.
 
 Next to use the ebuild, run the `ebuild` command like this
 ```sh
@@ -802,7 +791,7 @@ inherit user
 DESCRIPTION="Rime configuration manager and input schema repository"
 HOMEPAGE="https://rime.im/ https://github.com/rime/plum"
 SRC_URI="{% for artifact in artifacts %}
-	{{artifact.src_uri}}{% endfor %}"
+	\{\{artifact.src_uri\}\}{% endfor %}"
 
 LICENSE="GPL-3 LGPL-3 extra? ( Apache-2.0 )"
 SLOT="0"
