@@ -790,8 +790,8 @@ inherit user
 
 DESCRIPTION="Rime configuration manager and input schema repository"
 HOMEPAGE="https://rime.im/ https://github.com/rime/plum"
-SRC_URI="{% raw %}{% for artifact in artifacts %}
-	{{artifact.src_uri}}{% endfor %}{% endraw %}"
+SRC_URI="{% for artifact in artifacts %}
+	{% raw %}{{artifact.src_uri}}{% endfor %}{% endraw %}"
 
 LICENSE="GPL-3 LGPL-3 extra? ( Apache-2.0 )"
 SLOT="0"
