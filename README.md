@@ -1,3 +1,6 @@
+Translations for this page are available in:
+1. [Bulgarian](https://madman10k.github.io/translations/bg/main.md)
+
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
 
@@ -90,4 +93,4 @@ Additionally sometimes I also dabble into the following fields:
 
 ## Blog about stuff you don't care about
 1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis)
-2. [Personal funtoo guide](https://i-use-gentoo-btw.com/personal-funtoo-guide)
+2. [Personal funtoo guide](https://madman10k.github.io/personal-funtoo-guide)
