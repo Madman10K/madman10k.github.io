@@ -42,13 +42,14 @@ I have done paid commissions since 2020 but they have mostly been rare(i.e. once
 1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general software development work
 
 Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
+
 ## Programming knowledge
 I have a lot of experience in C and C++ as they have been my main languages for over 3 years. I use both old and new C++ features in my projects and am accustomed to working with both new and legacy standard library C++
 
 Outside of this I also know a bit of Golang, have written a good number of bash scripts, and made some websites with javascript
 
 ## Languages
-I am a polyglot/multilingual(polyglot doesn't fit my language knowledge according to some definitions) and can speak 5 languages with various degrees of success.
+Here are the languages I am currently learning:
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - A2
