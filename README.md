@@ -1,5 +1,5 @@
 Translations for this page are available in:
-1. [Bulgarian](https://madman10k.github.io/translations/bg/main)
+1. [Bulgarian](https://madman10k.github.io/translations/bg/main) 🇧🇬
 
 # Hey there
 I am Stanislav, also known as Madman10K, I am 16 years old and mainly work on applications using C and C++
