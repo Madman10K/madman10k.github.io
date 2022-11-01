@@ -53,7 +53,7 @@ Here are the languages I am currently learning:
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - A2
-1. Mandarin Chinese(simplified) 🇨🇳 - HSK2
+1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK2
 
 Additionally sometimes when I'm not learning Mandarin or German I learn the following languages:
 1. Russian 🇷🇺
@@ -89,7 +89,7 @@ Additionally sometimes I also dabble into the following fields:
 
 ## Stuff nobody cares about
 1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact
-1. I write in 🇬🇧 english
+1. I mostly write in 🇬🇧 english
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
