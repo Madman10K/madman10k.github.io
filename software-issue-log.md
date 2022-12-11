@@ -9,6 +9,7 @@ Note: All bugs here are reported to their respective developers/maintainers
 1. Discord still broken on flatpak
 2. Pyzy's boost USE flag is broken on Funtoo linux
 3. perf's doc USE flag is broken on Funtoo linux
+4. git-lfs, libfilezilla, libostree and appstream-glib broken on Funtoo linux
 
 ## December 10th 2022:
 1. Broken xmrig on Funtoo linux, missing dependency
