@@ -5,6 +5,11 @@ Note: All bugs here are reported to their respective developers/maintainers
 
 ----
 
+## December 12th 2022:
+1. OpenAL using the portaudio USE flag broken on Funtoo Linux, this breaks the UntitledVulkanGameEngine
+2. Invakid 404's new polkit ebuild broken, doesn't spawn polkit resulting in further breakages to xfce4-session-logout
+3. Cannot shut down notifications on XFCE
+
 ## December 11th 2022:
 1. Discord still broken on flatpak
 2. Pyzy's boost USE flag is broken on Funtoo linux
