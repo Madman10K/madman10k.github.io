@@ -5,6 +5,9 @@ Note: All bugs here are reported to their respective developers/maintainers
 
 ----
 
+## December 14th 2022
+1. Four of MadLadSquad's application's CIs broke because microsoft renamed a branch from `master` to `main` 🤡
+
 ## December 12th 2022:
 1. OpenAL using the portaudio USE flag broken on Funtoo Linux, this breaks the UntitledVulkanGameEngine
 2. Invakid 404's new polkit ebuild broken, doesn't spawn polkit resulting in further breakages to xfce4-session-logout
