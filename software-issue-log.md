@@ -5,6 +5,9 @@ Note: All bugs here are reported to their respective developers/maintainers
 
 ----
 
+## December 20th 2022
+1. Rime's package manager, plum,'s ebuild broken on Funtoo Linux due to incorrect permissions
+
 ## December 14th 2022
 1. Four of MadLadSquad's application's CIs broke because microsoft renamed a branch from `master` to `main` 🤡
 
