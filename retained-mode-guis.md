@@ -68,6 +68,13 @@ Because GPUs are made for rendering frames upon frames of information, the workl
 
 To reduce power consumption and GPU load, framerates can be locked to 60 or even 30 FPS, depending on the platform.
 
+Additionally the renderer can always communicate with the OS and windowing system to determine if any parts of the window are occluded.
+It UI element occlusion culling can also be employed so that widgets not in sight are not rendered
+
+As a final resort there exist so called hybrid UIs. Here libraries/frameworks have to choose to lean lean either to retained or immediate mode.
+An example of a hybrid mode UI can be immediate mode UIs that still update on certain events. For example an application may decide that rendering while moving a window
+should not be done.
+
 As a minus this requires a GPU which a large portions of embedded systems running GUI applications don't have
 
 ---
