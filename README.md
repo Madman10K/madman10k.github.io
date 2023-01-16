@@ -95,4 +95,3 @@ Additionally sometimes I also dabble into the following fields:
 ## Blog about stuff you don't care about
 1. [Software issues log](https://madman10k.github.io/software-issue-log)
 1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis)
-1. [Personal funtoo guide](https://madman10k.github.io/personal-funtoo-guide)
