@@ -7,12 +7,20 @@ I am Stanislav, also known as Madman10K, I am 17 years old and mainly work on ap
 ## About
 I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia.
 
-I started programming when I was 12 with the idea to start making games and other entertainment products using software. I started with Unity but found it very hard to use so after a month of using it, I switched to using [Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released) with which I spent 2 years building games.
+I started programming when I was 12 with the idea to start making games and other entertainment products using software. I started with Unity but found it 
+very hard to use so after a month of using it, I switched to using [Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-
+released) with which I spent 2 years building games.
 
-After making a couple of games that were never finished(but gaining a lot of experience on the way) I decided to take my Unreal Engine knowledge and make a game engine called the [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) on which I started working since I was 14 and am still working on! 
-The goal of the engine was to replicate some of the features of Unreal Engine which I liked and to make a prototype game engine that can be potentially used by a real game development studio.
+After making a couple of games that were never finished(but gaining a lot of experience on the way) I decided to take my Unreal Engine knowledge and make a 
+game engine called the [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) on which I started working since I was 14 and am 
+still working on! 
 
-Now with 1 year and counting of developing the engine, I am working on both software around the engine and other software outside of it, a complete list of projects is provided below
+The goal of the engine was to replicate some of the features of Unreal Engine which I liked and to make a prototype game engine that can be potentially 
+used by a real game development studio.
+
+Now with 2 years and counting of developing the engine, I am working on both software around the engine and other software outside of it, a complete list 
+of projects is provided below
+
 ## Projects
 1. Forgotten game using Unity - January - February 2018
 1. Multiple forgotten singleplayer games with various Unreal Engine versions - April 2018 to August 2019
@@ -22,11 +30,14 @@ Now with 1 year and counting of developing the engine, I am working on both soft
 1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - since 21st of December 2021
 1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - since the 12th of December 2020
 1. UntitledVukanTerminalEmulator, ImTTY, UntitledTerminalEmulatorBackend, UntitledEscapeParser - Pending to start development
-1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since 1st of February 2022
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and 
+[UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since 1st of February 2022
 1. UntitledDesktopEnvironment and other unannounced projects - since  20th of June 2022
-1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) and other package support in [Funtoo Linux](https://funtoo.org/) - Since 1st of August 2022
+1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) and other package support in [Funtoo Linux](https://funtoo.org/) - 
+Since 1st of August 2022
 
-with multiple more projects planned for later. The large majority of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a github organization I and other users use to collaborate on all the software listed above.
+with multiple more projects planned for later. The large majority of them are created under [MadLad Squad](https://github.com/MadLadSquad) which is a 
+github organization I and other users use to collaborate on all the software listed above.
 
 ## Current projects
 I am currently working on the following projects:
@@ -35,19 +46,28 @@ I am currently working on the following projects:
 - Supporting the projects with no finished date in the timeline when support it is needed
 
 ## Work experience
-I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. What I can say is that I worked on various C++ projects with my job being:
+I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. 
+What I can say is that I worked on various C++ projects with my job being:
 1. Fixing bugs
 1. Refactoring, modernizing and cleaning up a codebase
 1. Porting a codebase from Windows to Unix or vice versa
-1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general software development work
+1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general 
+software development work
 
-Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
+Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with 
+other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
 
 ## Programming knowledge
-I have a lot of experience in C and C++ as they have been my main languages for over 3 years. I use both old and new C++ features in my projects and am accustomed to working with both new and legacy standard library C++
+I have written a lot of code in the following programming languages:
+1. C and C++ - I have been using them for over 4 years
+1. Python - I have been using it for some projects for about a year
+1. Bash and shell - I have been using bash and shell scripts for over 2 years
+1. Golang - I maintain a discord bot written in golang that I update yearly since 2021
+1. HTML + CSS + Javascript + Markdown - I have been using the traditional frontend web stack from time to time during the last 5 years, but mostly on 
+and off. The main websites I have worked on are [my website](https://madman10k.online/), [the madladsquad site](https://madladsquad.com/) and 
+[youyin](https://youyin.madladsquad.com/)
 
-Outside of this I also know a bit of Golang, have written a good number of bash scripts, and made some websites with javascript
-
+Additionally 
 ## Languages
 Here are the languages I am currently learning:
 1. Bulgarian 🇧🇬 - native
