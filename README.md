@@ -8,8 +8,8 @@ I am Stanislav, also known as Madman10K, I am 17 years old and mainly work on ap
 I was born in the country of Bulgaria 🇧🇬 and the capital(also the biggest city), Sofia.
 
 I started programming when I was 12 with the idea to start making games and other entertainment products using software. I started with Unity but found it 
-very hard to use so after a month of using it, I switched to using [Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-
-released) with which I spent 2 years building games.
+very hard to use so after a month of using it, I switched to using 
+[Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released) with which I spent 2 years building games.
 
 After making a couple of games that were never finished(but gaining a lot of experience on the way) I decided to take my Unreal Engine knowledge and make a 
 game engine called the [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) on which I started working since I was 14 and am 
