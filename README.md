@@ -67,7 +67,10 @@ I have written a lot of code in the following programming languages:
 and off. The main websites I have worked on are [my website](https://madman10k.online/), [the madladsquad site](https://madladsquad.com/) and 
 [youyin](https://youyin.madladsquad.com/)
 
-Additionally 
+Other than that, because I mainly work on libraries, frameworks, game engines and development tools, I have a lot of knowledge in developing a library or
+framework with a nice interface. And as expected I know a good number of things about modern and historical hardware and systems, together with basic
+assembly for debugging and optimizing programs.
+
 ## Languages
 Here are the languages I am currently learning:
 1. Bulgarian 🇧🇬 - native
