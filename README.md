@@ -116,5 +116,6 @@ Additionally sometimes I also dabble into the following fields:
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
-1. [Software issues log](https://madman10k.github.io/software-issue-log)
 1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis)
+2. [How to create an IM for Linux using IBus and C/C++](https://madman10k.github.io/How-To-Create-An-IM-In-C-Using-IBus)
+3. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
