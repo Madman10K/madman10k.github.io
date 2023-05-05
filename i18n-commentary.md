@@ -24,7 +24,7 @@ Physical keyboards are the simplest. There are 2 types of keyboard:
 the given key
 2. Membrane - When you press a key, you hit a membrane which activates and tells the computer to input the given key
 
-Most keyboards are designed around either the ANSI or ISO standards, which feature 104 and 105 keys respectivelly. When inputting
+Most keyboards are designed around either the ANSI or ISO standards, which feature 104 and 105 keys, respectively. When inputting
 on a keyboard a piece of software known as a keyboard manager, although I like to refer to it as the basic input method, receives
 the key codes sent by the keyboard, interprets them and sends a signal to an application or a group of applications with the
 given event. Keyboard managers mainly deal with dispatching key events to applications and in most cases, it is applications
@@ -38,7 +38,7 @@ This is somewhat complicated by [dead keys](https://en.wikipedia.org/wiki/Dead_k
 [modifiers](https://en.wikipedia.org/wiki/Modifier_key), but they're not that hard to implement.
 
 ### Virtual keyboards
-Virtual keyboards are graphical representation of a physical keyboard in devices, where it is unfeasable to use a physical
+Virtual keyboards are graphical representation of a physical keyboard in devices, where it is unfeasible to use a physical
 keyboard. Smartphones, tablets and VR are examples of such devices.
 
 Virtual keyboards are a little bit more complex than the normal physical keyboard, since the keyboard manager now has to work
@@ -50,11 +50,11 @@ need to be copied from somewhere or fully memorised by the user.
 ## The issues with the physical keyboard
 While physical keyboards are great and mostly work as expected, there are some issues with the UX. 
 
-First of all, languages have different layouts you can use. Though most English-speaking people use 
+Firstly, languages have different layouts you can use. Though most English-speaking people use 
 [QWERTY](https://en.wikipedia.org/wiki/QWERTY), alternative English layouts exist, and the same applies to languages like
 Bulgarian with the BDS(Bulgarian Standard), Phonetic and Phonetic Traditional layouts.
 
-These layouts, while good by themselves might not have the same deadkeys and modifiers, which will make you change keyboard layouts
+These layouts, while good by themselves, might not have the same dead keys and modifiers, which will make you change keyboard layouts
 frequently for certain characters. Additionally, multilingual users of layouts like QWERTY, might prefer so called "phonetic"
 or "programmer layouts" in their mother tongue, but such might not exist.
 
@@ -63,7 +63,7 @@ where they are bound to other actions, like changing the system audio volume or 
 a combination of modifiers to get the actual function key press(really screws up hotkeys and makes playing most games hard)
 
 Finally, your language might just not have a keyboard layout on your OS, which while rare is possible. Other issues like bad
-drivers are possible, though mostly eliminated by standartization of keyboard protocol compatibility over USB.
+drivers are possible, though mostly eliminated, by standardization of keyboard protocol compatibility over USB.
 
 ## Introduction to IMEs
 We have a problem. Your average keyboard has around 104 to 105 keys, 
@@ -75,7 +75,7 @@ significantly reduce the number. But that still leaves us with around 5K charact
 To fix this issue, your computer uses an application known as an 
 [Input Method Editor, IME](https://en.wikipedia.org/wiki/Input_method). When an IME is activated(in most cases by clicking 
 on a text box in a GUI), the application records key presses and processes them to produce an output that can be way more
-complex than what you'd expect from a "dumb" input method, which just translates keycodes specified by a keyboard layout 
+complex than what you'd expect from a "dumb" input method, which just translates key codes specified by a keyboard layout 
 to characters directly. Using IMEs allows users of languages with complex writing systems, like ones using the 
 Chinese Characters, to input the full character set easily.
 
@@ -87,12 +87,12 @@ Phonetic systems like [Kana](https://en.wikipedia.org/wiki/Kana) input for Japan
 [Pinyin](https://en.wikipedia.org/wiki/Pinyin) and [Zhuyin](https://en.wikipedia.org/wiki/Bopomofo) for Mandarin and 
 [Jyutping](https://en.wikipedia.org/wiki/Jyutping) for [Cantonese](https://en.wikipedia.org/wiki/Cantonese), 
 are the most popular solution as of now. They work by using a phonetic representation of the language
-i.e. pinyin and then converting it to characters, building a list of guesses and letting the user pick the correct phrase
-from a popup window. This looks something like this:
+i.e. Pinyin and then converting it to characters, building a list of guesses and letting the user pick the correct phrase
+from a pop-up window. This looks something like this:
 
 <img src="https://rime.im/images/home-feature-4.svg" width="256" height="256"/>
 
-Credit to [Rime](https://rime.im) for the image.
+Credit to [rime](https://rime.im) for the image.
 
 ### Other uses for IMEs
 But using IMEs just for inputting [CJK characters](https://en.wikipedia.org/wiki/CJK_characters) doesn't represent the full
@@ -102,7 +102,7 @@ global input bus and more.
 
 ## Getting an IME
 Now that you know what an IME is, you might want to use one. Well, let's consider your operating system first. If you're on
-Windows, your only option is the Windows IMEs and applications that work with them. They are the following sorted by language:
+Windows, your only option is the Windows IMEs and applications that work with them. They are the following, sorted by language:
 1. Chinese
    - Microsoft Pinyin IME
    - Microsoft Zhuyin IME
@@ -113,7 +113,7 @@ Windows, your only option is the Windows IMEs and applications that work with th
 
 On Linux, you have a much wider selection. First, there are 2 major IMEs, 
 [IBus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus) and [FCITX5](https://en.wikipedia.org/wiki/Fcitx). Which both work
-in a very similar way. They act as frameworks for IMs and actual IMs can be installed through plugins. Here are some sorted by
+in a very similar way. They act as frameworks for IMs, and actual IMs can be installed through plugins. Here are some sorted by
 language:
 - IBus
   1. Chinese
@@ -133,7 +133,7 @@ language:
      - ibus-unikey
      - ibus-bamboo
 - FCITX
-  1. Chinese(ibus has the same alternatives in FCITX so they won't be listed)
+  1. Chinese(IBus has the same alternatives in FCITX, so they won't be listed)
      - fcitx-pinyin
      - fcitx-table
      - fcitx-handwriting
@@ -141,4 +141,5 @@ language:
   1. Vietnamese
      - fcitx-unikey
 
-Alright, now to download the IME and plugins for your prefered language.
+Alright, now to download the IME and plugins for your preferred language.
+
