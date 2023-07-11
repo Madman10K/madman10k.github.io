@@ -117,8 +117,8 @@ What I can say is that I worked on various C++ projects with my job being:
 1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general 
 software development work
 
-Outside of this, since I was in my period of game development January 2018 to December 2021, I also had the experience of managing a game project with 
-other people. Specifically I worked on it with a team of 2 other people, an artist and a musician
+Outside of this, since I was in my period of game development, January 2018 to December 2021, I also had the experience of managing a game project with 
+other people. Specifically, I worked on it with a team of 2 other people, an artist and a musician
 
 ## Programming knowledge
 I have written a lot of code in the following programming languages:
@@ -131,17 +131,17 @@ and off. The main websites I have worked on are [my website](https://madman10k.o
 [youyin](https://youyin.madladsquad.com/)
 
 Other than that, because I mainly work on libraries, frameworks, game engines and development tools, I have a lot of knowledge in developing a library or
-framework with a nice interface. And as expected I know a good number of things about modern and historical hardware and systems, together with basic
+framework with a nice interface. As expected I know a good number of things about modern and historical hardware and systems, together with basic
 assembly for debugging and optimizing programs.
 
 ## Languages
-Here are the languages I am currently learning:
+These are the languages I am currently learning:
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - between A2 and B1
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new)
 
-Additionally sometimes when I'm not learning Mandarin or German I learn the following languages:
+Additionally, sometimes, when I'm not learning Mandarin or German, I learn the following languages:
 1. Russian 🇷🇺
 1. Macedonian 🇲🇰
 1. Serbo-Croatian 🇷🇸🇭🇷
@@ -155,7 +155,7 @@ Additionally sometimes when I'm not learning Mandarin or German I learn the foll
 - Discord username: Madman10K#0345
 
 ## Hobbies
-I have the following hobbies and interests as my main ones:
+The following are my main hobbies and interests:
 1. Programming
 1. Language learning
 1. Economics and Business
@@ -166,7 +166,7 @@ I have the following hobbies and interests as my main ones:
 1. Geography
 1. Philosophy
 
-Additionally sometimes I also dabble into the following fields:
+Additionally, sometimes, I also dabble into the following fields:
 1. Game design and development
 1. Music and audio design
 1. Creative writing and storytelling
