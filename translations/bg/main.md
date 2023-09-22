@@ -1,105 +1,166 @@
 # Здравейте
-Аз съм Станислав, още познад под псевдонима Madman10K /мадман10к/. Аз съм на 16 и главно работя върху програми с C и C++
+Аз съм Станислав, още познат като "Madman10K". На 17 съм и работя като C и C++ програмист.
 
 ## За мен
-Аз съм роден в София, България 🇧🇬
+Роден съм в София, България 🇧🇬.
 
-Започнах да програмирам, когато бях на 12 с идеята да започна да създавам игри и други развлекателни програми. Започнах с game engine-а Unity, но се
-отказах, в следствие от това, че беше прекалено труден. В следствие от това, реших да ползвам 
-[Unreal Engine 4](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released), с който правих игри близо 2 години
+Започнах да програмирам, когато бях на 12. Първоначално желаех да правя игри, като започнах с Unity, но след няколко месеца смених engine-а на 
+[Unreal Engine 4.18](https://www.unrealengine.com/en-US/blog/unreal-engine-4-18-released), с който правих игри ~2 години.
 
-След като направих няколко недовършени игри(но научавайки много неща по пътя), реших да взема моите знания в Unreal Engine, и да ги пренеса към нов проект.
-Реших да направя [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) на 14-годишна възраст и все още работя 
-върху него. Целта на engine-а, е да е подобен на Unreal Engine, по дизайн но да бъде на много по-проста основа. Главен мотиватор в решението ми беше, 
-това че Unreal Engine има строга йерархична структура, която едновременно пази, програмиста от опасности, но и не отнема свободата от му.
+Когато станах на 14 през 2020-та година, реших да използвам опита и знанията си от Unreal Engine, и да направя собствен game engine: 
+[UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine).
 
-Вече повече от 2 години работя върху този engine, софтуер покрай него, както и други програми и библитотеки, които не са свързани с него. Пълен лист с
-проектите може да намерите отдолу
+От Юли 2022, работя по [the UntitledDesktopEnvironment](https://madladsquad.com/desktop), което е проект на [MadLadSquad](https://madladsquad.com), целящ
+да създаде напълно независима графична среда, като [Gnome](https://gnome.org/) и [KDE](https://kde.org/) за Linux и други операционни системи.
+Важно е да се отбележи, че за разлика от среди като XFCE или LXQT, ние използваме собствен toolkit и не разчитаме на софтуер, като GTK и QT.
+
+За момента, средата бива разработвана, като основа за създаване на по-специализирани графични среди, което означава, че е минимална и не съдържа
+голямо количество от програмите, които среди като KDE или Gnome предоставят. 
+
+Като единственият разработчик на средата, аз съм отговорен за всички проекти свързани с нея, включително и разработката на нашият собствен desktop application
+framework, [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework).
 
 ## Проекти
-1. Забравена игра с Unity - Януари до Февруари 2018
-1. Няколко забравени singleplayer и m ultiplayer игри с Unreal Engine 4 - Април 2018 до Август 2019
-1. Multiplayer FPS игра в Unreal Engine 4 - 8-ми Септември 2019 до 31-ви Август 2020
-1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - От 4-ти Май 2020
-1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - От 12-ти Декември 2020
-1. [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - От 31-ви Август 2021
-1. [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - От 21-ви Декември 2021
-1. UntitledVukanTerminalEmulator, ImTTY, UntitledTerminalEmulatorBackend, UntitledEscapeParser - Ще започне разработка скоро
-1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) и [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - От 1-ви Февруари 2022
-1. UntitledDesktopEnvironment - От 20-ти Юни 2022
-1. [i18n (internationalization/интернационализация)](https://en.wikipedia.org/wiki/Internationalization_and_localization) пакети във Funtoo Linux - От 10-ти Август 2022
 
-има повече проекти, които се разработват в момента, но не са достатъчно значими или не са все още разработени. Всички проекти в този лист, и повечето
-други, върху които съм работил са създени и се разработват под организацията MadLadSquad. Можете да видите всичките проекти, върху които съм работил в
-сайта ѝ.
+1. Безименна игра в Unity - Януари - Февруари 2018
+1. Дозина недовържени singleplayer игри с различни версии на Unreal Engine - Април 2018 до Август 2019
+1. Multiplayer FPS игра направена с UE4 - 8-ми септември 2019 - 31-ви август 2020
+1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - от 4-ти май 2020
+1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - от август 2021
+1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - от 21-ви декември 2021
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - от 12-ти декември 2020
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) и 
+[UntitledExec](https://github.com/MadLadSquad/UntitledExec) - от 1-ви февруари 2022
+1. [UntitledDesktopEnvironment](https://madladsquad.com/desktop) и други проекти - от 20-ти юни 2022
+1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) и поддръжка на различни пакети във [Funtoo Linux](https://funtoo.org/) - 
+От 1-ви август 2022
+1. [All MadLadSquad projects](https://madladsquad.com/) - от януари 2018
 
-## Настоящи проекти
-В момента работя върху следните проекти:
-- UntitledDesktopEnvironment
+Голяма част от тези проекти са част от [MadLad Squad](https://github.com/MadLadSquad), което е GitHub организация, която разработва софтуер с отворен код.
+
+## Сегашни проекти
+За момента, работя върху следните проекти:
+
+- [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) поддръжка във [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
-- Поддръжка на другите проекти, когато има нужда от подобрения
+- Поддръжка на всички [MadLadSquad проекти](https://madladsquad.com/)
+
+## Проекти, част от MadLadSquad
+### Игри или свързани с игри
+
+1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - Cross-platform game engine, за обща употреба
+1. [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - Компилатор за шейдъри за UntitledVulkanGameEngine
+1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Discord bot за обща употреба
+1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - Диспечер за контейнеризирани гейминг Линукс гейминг системи, използвайки LXC и LXD
+1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - Генератор за build файлове за UntitledVulkanGameEngine и UntitledImGuiFramework
+
+### UntitledDesktopEnvironment
+
+1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
+made for our desktop environment(UntitledDesktopEnvironment/UDE)
+1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - Библиотека за записване и употреба на цветови теми за dear imgui в YAML формат
+1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - Помощна програма за илизане от UDE сесия
+1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - Програма за помощ, документация и въведение за нови потребители на UDE
+1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - Библиотека за dear imgui, за изписване на rich text
+1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - Набор от малки програми, които използваме при първа инсталация на UDE
+1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - Набор от инструменти за работа с [dbus](https://en.wikipedia.org/wiki/D-Bus)
+1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - Имплементация на [XDG base directory спецификацията](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+
+### UntitledDesktop Flow
+
+1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - Минимален и лесен за разширяване панел
+
+### Мултиезични проекти
+
+1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - Сайт за учене на различни писмености
+1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Публична база данни с тестета за Youyin
+1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Монолитна база данни съдържаща информация за всички символи в Youyin
+1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform инструменти за работа с глобални шрифтове
+1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - IME за [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus), което разпознава символи, когато биват написани ръкописно
+1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - C и C++ библиотека за интернационализация
+
+### Библиотеки и други програми
+
+1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - Сайта на MadLadSquad
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - Малка logging библиотека
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - Малка cross-platform библиотека, която динамично зарежда споделени библиотеки
+1. [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - Cross-platform библиотека, която отваря програми като отделен "process"
+1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - GitHub Action, което проверява дали 2 клона в Git се различават и с колко промени се различават
+1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - C и C++ парсър за конзолни аргументи от стандартен формат
+1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - Gentoo/Funtoo overlay за всички MadLadSquad програми, UDE и UDF applications + допълнителни компоненти за графичните среди. Предстои да бъде разработен
+1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - Templating engine, чийто език е напълно turing-complete диалект на Lisp, написан на C и C++
+1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - Набор от малки програми, които използваме навсякъде
+1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - Библиотека, която отваря URI линкове или файлове/папки с програмата по подразбиране.
 
 ## Работен опит
-От 2020-та година, аз работя свободна професия(freelancer), но са ме наемали рядко(веднъж на всеки 3-4 месеца) и включват клауза за поверителност. 
-В следствие от това, не мога да споделя детайли, върху какво съм работил, но мога да кажа, зче съм работил върху различни проекти с C++, включващи:
-1. Оправяне на неизправности в програми
-1. Модернизиране, рефакториране и изчистване на кода на даден софтуерен проект
-1. Адаптиране на проект от Windows за Unix или обратното
-1. Други различни задачи, включително създаване на нови компоненти в програми, зъздаване на абстракции, структури от данни и тн.
+I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. 
+What I can say is that I worked on various C++ projects with my job being:
+1. Fixing bugs
+1. Refactoring, modernizing and cleaning up a codebase
+1. Porting a codebase from Windows to Unix or vice versa
+1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general 
+software development work
 
-Извън това, в периода Август 2020 - Януари 2021, бях мениджър на малък отбор за разработка на игри, като от там имам опит в управляване на софтуерен
-проект. Екипът включваше, мен като програмист и лидер на екипа, 1 допълнителен програмист, който отговаряше и за 3D моделите в играта, както и
-един музикант, който отговаряше за аудио дизайна, музиката и звуковите ефекти
+Outside of this, since I was in my period of game development, January 2018 to December 2021, I also had the experience of managing a game project with 
+other people. Specifically, I worked on it with a team of 2 other people, an artist and a musician
 
-## Познания в програмирането
-Имам голямо количество опит в програмиране с C и C++, понеже съм ги използвал последните 3 години. Познавам, както стандартните библиотеки и инструментите, 
-които предлагат модерните C и C++, така и старите и архаични стандарти като C89.
+## Познания по програмиране
+Писал съм много код със следните програмни езици:
+1. C и C++ - Повече от 4 години
+1. Python - Около година
+1. Bash и shell - Повече от 3 години
+1. Goland - От 2021
+1. HTML + CSS + Javascript + Markdown - От 2020. Главните сайтове, които съм правил са [този сайт](https://madman10k.online/),
+  [madladsquad](https://madladsquad.com/) и [youyin](https://youyin.madladsquad.com/)
 
-Извън това, съм разработвал малко по брой програми на Golang, писал съм добро количество bash и shell script-ове и съм правил website-и на Javascript
+Other than that, because I mainly work on libraries, frameworks, game engines and development tools, I have a lot of knowledge in developing a library or
+framework with a nice interface. As expected I know a good number of things about modern and historical hardware and systems, together with basic
+assembly for debugging and optimizing programs.
 
 ## Езици
-Изучавам и знам следните езици на следните нива:
-1. Български език 🇧🇬 - Майчин език
-1. Английски език 🇬🇧 - Между C1 и C2
-1. Немски 🇩🇪 - A2
-1. Мандарин Китайски(С упростени символи) 🇨🇳 - HSK2 ниво
+Говоря следните изици:
+1. Български 🇧🇬 - native
+1. Английски 🇬🇧 - между C1 и C2
+1. Немски 🇩🇪 - B1
+1. Мандарин(с упростени символи) 🇨🇳 - HSK3(нова програма)
 
-Освен това, от време на време уча следните езици:
+Освен това, понякога, обичам да уча неща за следните езици:
 1. Руски 🇷🇺
-1. Македонски диалект 🇲🇰
-1. Сърбо-Хърватски 🇷🇸🇭🇷
+1. Македонски 🇲🇰
+1. Сърбохърватски 🇷🇸🇭🇷
 1. Японски 🇯🇵
 
 ## Обратна връзка
 - Github: <https://github.com/Madman10K>
-- MadLad Squad github: <https://github.com/MadLadSquad>
-- Е-мейл: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com, contact@madladsquad.com
-- Discord група за MadLad Squad: <https://discord.gg/j8XZCPY>
+- MadLad Squad Github: <https://github.com/MadLadSquad/>
+- E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
+- Discord група на MadLad Squad: <https://discord.gg/j8XZCPY>
 - Discord потребителско име: Madman10K#0345
 
-## Хобита
-Имам следните интереси:
+## Лични интереси
+Интересувам се от следните теми:
+
 1. Програмиране
-1. Изучаване на езици
+1. Учене на езици
 1. Икономика и бизнес
 1. Геополитика
-1. Европейска политика
-1. Градско планиране
-1. Модерна Европейска история(1700-до сега)
+1. City planning
+1. Модерна европейска история(1700-now)
 1. География
 1. Философия
-1. Game design и разработка на игри
 
-От време на време може да реша да се занимавам със следните неща:
-1. Музика и Аудио дизайн
+Понякога, също се занимавам с неща от следните сфери:
+
+1. Game дизайн и разработка
+1. Музика и аудио дизайн
 1. Електроника
-1. Играене на видеоигри
 
-## Неща, от които никой не се интересува
-1. Аз съм [gentoo linux](https://www.gentoo.org/) потребител, [funtoo linux](https://www.funtoo.org/Welcome) ако трябва да бъда точен
-1. Пиша на 🇬🇧 english
-1. Използвам colemak като подредбата на клавишите на клавиатурата. С нея мога да пиша с ~138 думи на минута
+## Интересни факти
 
-## Блог за неща, от които никой не се интересува
-1. [Why retained mode GUIs are bad](https://madman10k.github.io/retained-mode-guis) - Очаквайте превод към Български скоро
-2. [Personal funtoo guide](https://madman10k.github.io/personal-funtoo-guide) - Очаквайте превод към Български скоро
+1. Аз съм потребител на [gentoo linux](https://www.gentoo.org/), по-точно на [funtoo linux](https://www.funtoo.org/Welcome)
+1. Главно пиша на 🇬🇧 английски
+1. Пиша на [colemak](https://colemak.com/) клавиатура и достигам 138 думи на минута. С [QWERTY](https://en.wikipedia.org/wiki/QWERTY) около 56 думи на минута
+
+## Блог за маловажни неща
+
+1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide) - English only
