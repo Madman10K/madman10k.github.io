@@ -17,6 +17,7 @@ game engine called the [UntitledVulkanGameEngine](https://github.com/MadLadSquad
 In July 2022, I started the [UntitledDesktopEnvironment](https://madladsquad.com/desktop) under [MadLadSquad](https://madladsquad.com). I'm currently the only developer, so I work on all aspects of it. The goal is to make an independent Linux desktop environment like [Gnome](https://gnome.org/) and [KDE](https://kde.org/). It includes a custom implementation of almost all core DE features, including a custom-built desktop application framework, the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework).
 
 ## Projects
+
 1. Forgotten game using Unity - January - February 2018
 1. Multiple forgotten singleplayer games with various Unreal Engine versions - April 2018 to August 2019
 1. A multiplayer FPS game using UE4 - September 8th 2019 - 31st of August 2020
@@ -37,76 +38,59 @@ github organization, that I and other users, utilise to collaborate on all the s
 
 ## Current projects
 I am currently working on the following projects:
+
 - [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) support in [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
 - Working on all [MadLadSquad projects](https://madladsquad.com/)
 
 ## MadLadSquad projects I am working on
 ### Games and game related
-- [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform general use, Vulkan game engine
-- [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
-- [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
-- [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - A manager for containerized game systems using LXC and LXD
-- [UntitledShapeRotator](https://github.com/MadLadSquad/UntitledShapeRotator) - A small game to showcase what the UntitledVulkanGameEngine is capable of,
-will be developed at Alpha 1.0 of the engine
-- [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
+
+1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - A cross-platform general use, Vulkan game engine
+1. [UVKShaderCompiler](https://github.com/MadLadSquad/UVKShaderCompiler) - A shader compiler for the UntitledVulkanGameEngine
+1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - Our general purpose Discord bot
+1. [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager) - A manager for containerized game systems using LXC and LXD
+1. [UVKBuildTool](https://github.com/MadLadSquad/UVKBuildTool) - A build file generator for the UntitledVulkanGameEngine and UntitledImGuiFramework
 
 ### UntitledDesktopEnvironment and related
-- [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
-made for our desktop environment(UntitledDesktopEnvironment/UDE)
-- [UntitledTextEditor](https://github.com/MadLadSquad/UntitledTextEditor) - UDE graphical text editor, to be developed
-- [ImTTY](https://github.com/MadLadSquad/ImTTY) - A terminal emulator widget for dear imgui, to be developed
-- [UntitledTerminalEmulatorBackend](https://github.com/MadLadSquad/UTEBackend) - A cross-platform terminal emulator backend library for 
-the UntitledTerminalEmulator, Windows not supported as of now, to be developed
-- [UntitledEscapeParser](https://github.com/MadLadSquad/UntitledEscapeParser) - A library that parses strings containing unix escape sequences, to be developed
-- [UntitledDETheme](https://github.com/MadLadSquad/UntitledDETheme) - A theming library for UDE, to be developed
-- [UntitledDEThemeGenerator](https://github.com/MadLadSquad/UntitledDEThemeGenerator) - A graphical theme creator for UDE, to be developed
-- [UntitledFileManager](https://github.com/MadLadSquad/UntitledFileManager) - A file manager for UDE, to be developed
-- [UntitledDESessionManager](https://github.com/MadLadSquad/UntitledDESessionManager) - A session manager for UDE, to be developed
-- [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
-- [UntitledDEPowerManager](https://github.com/MadLadSquad/UntitledDEPowerManager) - A power manager for UDE, to be developed
-- [UntitledDEWallpaperManager](https://github.com/MadLadSquad/UntitledDEWallpaperManager) - A wallpaper manager for UDE, to be developed
-- [UntitledDESettings](https://github.com/MadLadSquad/UntitledDESettings) - A settings manager for UDE, to be developed
-- [UntitledCalculator](https://github.com/MadLadSquad/UntitledCalculator) - A cross-platform calculator application, to be developed
-- [UntitledImageViewer](https://github.com/MadLadSquad/UntitledImageViewer) - A minimal cross-platform image viewer, to be developed
-- [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE, to be developed
-- [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text, to be developed
-- [UntitledNotify](https://github.com/MadLadSquad/UntitledNotify) - Cross-platform OS notification library, to be developed
-- [UntitledPackageGenerator](https://github.com/MadLadSquad/UntitledPackageGenerator) - A generator for build and distribution formats such as debs, winget manifests, rpms, ebuilds, etc. to be developed
-- [UntitledDesktopCompat](https://github.com/MadLadSquad/UntitledDesktopCompat) - A bunch of compatibility utilities for multidirectional conversion between KDE, Gnome and UDE formats, to be developed
-- [UntitledPackageRepository](https://github.com/MadLadSquad/UntitledPackageRepository) - A repository for plugin packages used by the plugin package manager, to be developed
-- [UntitledPackageManager](https://github.com/MadLadSquad/UntitledPackageManager) - A package manager for plugins and mods, to be developed
-- [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that created needed folders and files when first installing UDE, to be developed
-- [UntitledPolkitUtils](https://github.com/MadLadSquad/UntitledPolkitUtils) - A collection of utilities for dealing with [polkit](https://en.wikipedia.org/wiki/Polkit), to be developed
-- [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
-- [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
-### UntitledDesktopFlow
-- [UDFApplicationLauncher](https://github.com/MadLadSquad/UDFApplicationLauncher) - An application launcher for UDF, to be developed
-- [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A desktop panel for UDF, to be developed
+1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - A minimal destkop application development framework for C++, 
+made for our desktop environment(UntitledDesktopEnvironment/UDE)
+1. [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme) - A theme library for dear imgui using a YAML format
+1. [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout) - A session logout utility for UDE
+1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
+1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
+1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
+1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
+1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+
+### UntitledDesktop Flow
+
+1. [UDFPanel](https://github.com/MadLadSquad/UDFPanel) - A minimal and highly-customisable desktop panel implementation
 
 ### Multilingual
-- [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
-- [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
-- [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
-- [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
-- [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
-- [UntitledKBD](https://github.com/MadLadSquad/UntitledKBD) - A keyboard layout generator for custom layouts, outputs keyboards for Linux, Windows and Android in multiple formats, to be developed
-- [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
-- [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library, to be developed
+
+1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
+1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
+1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
+1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
+1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
+1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
+1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
 
 ### Libraries and misc applications
-- [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
-- [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
-- [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
-- [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
-- [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2 branches are in sync, 
-also works for forks and upstream
-- [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
-- [UntitledMathSolver](https://github.com/MadLadSquad/UntitledMathSolver) - A C and C++ backend for a calculator, to be developed
-- [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
-- [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++, to be developed
-- [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
+
+1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
+1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
+1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
+1. [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
+1. [check-for-synced-branches-action](https://github.com/MadLadSquad/check-for-synced-branches-action) - An action to check if 2
+branches are in sync, also works for forks and upstream
+1. [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser) - A C and C++ parser for CLI arguments
+1. [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay) - A Gentoo/Funtoo overlay for all MadLadSquad, UDE and UDF applications + additional components for the desktops, to be developed
+1. [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine) - A fully turing complete templating engine using a lisp-like language written in C and C++
+1. [GenericScripts](https://github.com/MadLadSquad/GenericScripts) - A list of generic scripts we use a lot on most of our repositories
+1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - A library to open URIs with a default application or files/folders with a file picker
 
 ## Work experience
 I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. 
@@ -156,6 +140,7 @@ Additionally, sometimes, when I'm not learning Mandarin or German, I learn the f
 
 ## Hobbies
 The following are my main hobbies and interests:
+
 1. Programming
 1. Language learning
 1. Economics and Business
@@ -167,6 +152,7 @@ The following are my main hobbies and interests:
 1. Philosophy
 
 Additionally, sometimes, I also dabble into the following fields:
+
 1. Game design and development
 1. Music and audio design
 1. Creative writing and storytelling
@@ -174,11 +160,11 @@ Additionally, sometimes, I also dabble into the following fields:
 1. Playing videogames
 
 ## Fun facts
+
 1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact
 1. I mostly write in 🇬🇧 english
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
-1. [Introduction to (almost) all concepts of software internationalisation]()
-1. [How to create an IM for Linux using IBus and C/C++](https://madman10k.github.io/How-To-Create-An-IM-In-C-Using-IBus)
+
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
