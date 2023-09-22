@@ -25,7 +25,6 @@ In July 2022, I started the [UntitledDesktopEnvironment](https://madladsquad.com
 1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - since August 2021
 1. The [UntitledLinuxGameManager](https://github.com/MadLadSquad/UntitledLinuxGameManager/) - since 21st of December 2021
 1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog/) - since the 12th of December 2020
-1. UntitledVukanTerminalEmulator, ImTTY, UntitledTerminalEmulatorBackend, UntitledEscapeParser - Pending to start development
 1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader/) and 
 [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - since 1st of February 2022
 1. [UntitledDesktopEnvironment](https://madladsquad.com/desktop) and other unannounced projects - since  20th of June 2022
@@ -61,7 +60,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome) - A help and welcome screen applicatino for UDE
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - ImGui Text rendering utility functions such as rendering underlined, bold or italic text
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap) - A collection of scripts that creates needed folders and files when first installing UDE
-1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus), to be developed
+1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - A collection of utilities for dealing with [dbus](https://en.wikipedia.org/wiki/D-Bus)
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - An implementation of the [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 ### UntitledDesktop Flow
@@ -80,7 +79,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 
 ### Libraries and misc applications
 
-1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The site you're looking at right now
+1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - The MadLadSquad website
 1. [UntitledLog](https://github.com/MadLadSquad/UntitledLog) - A small logging library
 1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - A small cross-platform shared library loder library
 1. [UntitledExec](https://github.com/MadLadSquad/UntitledExec) - A small cross-platform library to execute applications as seperate processes
