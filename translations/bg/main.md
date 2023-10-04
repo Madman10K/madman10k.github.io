@@ -113,9 +113,9 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. HTML + CSS + Javascript + Markdown - От 2020. Главните сайтове, които съм правил са [този сайт](https://madman10k.online/),
   [madladsquad](https://madladsquad.com/) и [youyin](https://youyin.madladsquad.com/)
 
-Other than that, because I mainly work on libraries, frameworks, game engines and development tools, I have a lot of knowledge in developing a library or
-framework with a nice interface. As expected I know a good number of things about modern and historical hardware and systems, together with basic
-assembly for debugging and optimizing programs.
+Освен това, като следствие от това, че главно работя върху библиотеки, framework-ове, game engine-и и инструменти за разработка на софтуер, имам голямо количество
+познания, в сферата на разработването на библиотека или framework с хубав interface. Освен това, знам добро количество неща за модерни и архаични системи, заедно
+с Assembly за debug-ване и оптмизация на програми.
 
 ## Моите умения
 Кратък списък, със моите умения, за тези, които искат бързо да научат, какво мога:
