@@ -35,6 +35,7 @@ framework, [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledI
 1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) и поддръжка на различни пакети във [Funtoo Linux](https://funtoo.org/) - 
 От 1-ви август 2022
 1. [All MadLadSquad projects](https://madladsquad.com/) - от януари 2018
+1. Social media маркетинг за [Модус Мио БГ](https://instagram.com/modusmio.bg/) - от септември 2023
 
 Голяма част от тези проекти са част от [MadLad Squad](https://github.com/MadLadSquad), което е GitHub организация, която разработва софтуер с отворен код.
 
@@ -44,6 +45,7 @@ framework, [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledI
 - [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) поддръжка във [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
 - Поддръжка на всички [MadLadSquad проекти](https://madladsquad.com/)
+- Създаване на постове за [Модус Мио БГ](https://instagram.com/modusmio.bg/) плейлиста
 
 ## Проекти, част от MadLadSquad
 ### Игри или свързани с игри
@@ -93,16 +95,14 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen) - Библиотека, която отваря URI линкове или файлове/папки с програмата по подразбиране.
 
 ## Работен опит
-I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. 
-What I can say is that I worked on various C++ projects with my job being:
-1. Fixing bugs
-1. Refactoring, modernizing and cleaning up a codebase
-1. Porting a codebase from Windows to Unix or vice versa
-1. Other various programing work including writing small features for apps, implementing data structures and abstractions, and doing other general 
-software development work
+От 2020, работя като freelancer, но работя рядко(веднъж на всеки 3-4 месеца). Поради условията на договори, които съм подписал, не мога да коментирам,
+детайлно по какво съм работил. Това, което мога да кажа, е че съм работил по различни C++ проекти, като работата ми е била да:
+1. Оправям бъг-ове
+1. Рефакториране, модернизиране и почистване на кода на даден проект
+1. Port-ване на проект от Windows, към Unix или обратното
+1. Друга работа, като добавяне на малки допълнения за приложения или създаване на структури от данни и абстракции
 
-Outside of this, since I was in my period of game development, January 2018 to December 2021, I also had the experience of managing a game project with 
-other people. Specifically, I worked on it with a team of 2 other people, an artist and a musician
+Извън това, докато разработвах игри, между януари 2018 и декември 2021, аз също получиж опит в управляване на софтуерен проект.
 
 ## Познания по програмиране
 Писал съм много код със следните програмни езици:
@@ -116,6 +116,47 @@ other people. Specifically, I worked on it with a team of 2 other people, an art
 Other than that, because I mainly work on libraries, frameworks, game engines and development tools, I have a lot of knowledge in developing a library or
 framework with a nice interface. As expected I know a good number of things about modern and historical hardware and systems, together with basic
 assembly for debugging and optimizing programs.
+
+## Моите умения
+Кратък списък, със моите умения, за тези, които искат бързо да научат, какво мога:
+
+1. Програмни езици
+   - C и C++
+   - Python
+   - Bash и shell
+   - Golang
+   - HTML, CSS, JS и Markdown
+   - Rust
+1. В софтуерната сфера(подредбата е случайна)
+   - Разработка на игри
+   - Графично програмиране
+   - Програми за настолни операционни системи(Windows и Linux)
+   - Full stack web раработка(традиционна web разработка, без frontend framework-ове и в повечето случаи, без backend framework-ове)
+   - Интернационализация на софтуерни продукти
+   - Разработка на библиотеки и framework-ове
+   - CI/CD
+   - Системно програмиране за Линукс и други Юникс операционни
+   - Системно програмиране за Windows
+   - Разработка на пакети за Linux системи(формати, основани на ports системата)
+   - Разработка на пакети за [Funtoo](https://funtoo.org/)(ebuild и autogen(python script-ове, които автоматично генерират нови версии))
+   - Разработка на програми с [LXD](https://ubuntu.com/lxd)(използвайки golang API-а)
+   - [DBus](https://en.wikipedia.org/wiki/D-Bus)
+   - Разработка на IME програми(за [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus))
+   - Разработка на бот-ове за [Discord](https://discord.com)
+   - Разработна на програмни езици(разработка lisp-подобен език за the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine))
+   - Манипулация на SVG файлове(heavily used to handle character recognition for [Youyin](https://youyin.madladsquad.com/))
+   - Autotools, CMake, Makefile-ове
+   - Аудио програмиране(опитът ми е много малък)
+1. Други
+   - Интернационализация на продукти
+   - 3Д моделиране и texturing(за игри)
+   - 2D/3D дизайн на сцени и нива(за игри)
+   - Мениджмънт на големи проекти и мениджмънт на отбор
+   - Social media маркетинг(за [Модус Мио БГ](https://www.instagram.com/modusmio.bg/))
+   - Пълна разработка, монетизация, маркетинг и реализация на софтуерен проект(за [Youyin](https://youyin.madladsquad.com))
+   - Шрифтове и познания по типография(за [Youyin](https://youyin.madladsquad.com) и [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils))
+   - Freelancing
+   - Езици: 🇧🇬🇬🇧🇩🇪🇨🇳
 
 ## Езици
 Говоря следните изици:
