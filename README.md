@@ -31,6 +31,7 @@ In July 2022, I started the [UntitledDesktopEnvironment](https://madladsquad.com
 1. [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) and other package support in [Funtoo Linux](https://funtoo.org/) - 
 Since 1st of August 2022
 1. [All MadLadSquad projects](https://madladsquad.com/) - Since January 2018
+1. Social media marketing and content creation for [modusmio.bg](https://www.instagram.com/modusmio.bg/) - Since 23th of September 2023
 
 The large majority of these are created under [MadLad Squad](https://github.com/MadLadSquad), which is a 
 github organization, that I and other users, utilise to collaborate on all the software listed above.
@@ -41,6 +42,7 @@ I am currently working on the following projects:
 - [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) support in [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
 - Working on all [MadLadSquad projects](https://madladsquad.com/)
+- Creating content for the [modusmio.bg](https://www.instagram.com/modusmio.bg/) playlist
 
 ## MadLadSquad projects I am working on
 ### Games and game related
@@ -94,6 +96,7 @@ branches are in sync, also works for forks and upstream
 ## Work experience
 I have done paid commissions since 2020 but they have mostly been rare(i.e. once every 3-4 months) and private, so no details can be discussed here. 
 What I can say is that I worked on various C++ projects with my job being:
+
 1. Fixing bugs
 1. Refactoring, modernizing and cleaning up a codebase
 1. Porting a codebase from Windows to Unix or vice versa
@@ -105,6 +108,7 @@ other people. Specifically, I worked on it with a team of 2 other people, an art
 
 ## Programming knowledge
 I have written a lot of code in the following programming languages:
+
 1. C and C++ - I have been using them for over 4 years
 1. Python - I have been using it for some projects for about a year
 1. Bash and shell - I have been using bash and shell scripts for over 2 years
@@ -117,20 +121,64 @@ Other than that, because I mainly work on libraries, frameworks, game engines an
 framework with a nice interface. As expected I know a good number of things about modern and historical hardware and systems, together with basic
 assembly for debugging and optimizing programs.
 
+## List of skills
+This is a list of skills for people who want to quickly learn what I am capable of:
+
+1. Programming languages
+   - C and C++
+   - Python
+   - Bash and shell
+   - Golang
+   - HTML, CSS, JS and Markdown
+   - Rust
+1. Software development fields(in no particular order)
+   - Game development
+   - Graphics programming
+   - Desktop application development(Windows and Linux)
+   - Full stack web development(traditional web development, without frontend frameworks and in most cases without backend frameworks)
+   - Software internationalisation
+   - Library development
+   - CI/CD development
+   - Linux systems programming
+   - Windows systems programming
+   - Linux package development(ports-based packages)
+   - [Funtoo](https://funtoo.org/) package development(ebuild and autogen(python scripts to automatically generate new versions of an ebuild) development)
+   - [LXD](https://ubuntu.com/lxd) development(using the golang API)
+   - [DBus](https://en.wikipedia.org/wiki/D-Bus)
+   - IME development(for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus))
+   - [Discord](https://discord.com) bot development
+   - Programming language development(developed a lisp-like programming language for the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine))
+   - SVG manipulation(heavily used to handle character recognition for [Youyin](https://youyin.madladsquad.com/))
+   - Autotools, CMake, Makefiles
+   - Audio programming(I have very little experience here)
+1. Non-programming concepts
+   - Product internationalisation
+   - 3D modelling and texturing(related to game development)
+   - 2D/3D scene and level design(related to game development)
+   - Large project & team management
+   - Social media marketing and content creation(at [modusmio.bg](https://www.instagram.com/modusmio.bg/))
+   - Product development, deployment, monetisation and marketing(for [Youyin](https://youyin.madladsquad.com))
+   - Fonts and typography knowledge(for [Youyin](https://youyin.madladsquad.com) and [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils))
+   - Freelancing
+   - Languages: 🇧🇬🇬🇧🇩🇪🇨🇳
+
 ## Languages
 These are the languages I am currently learning:
+
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - between A2 and B1
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new)
 
 Additionally, sometimes, when I'm not learning Mandarin or German, I learn the following languages:
+
 1. Russian 🇷🇺
 1. Macedonian 🇲🇰
 1. Serbo-Croatian 🇷🇸🇭🇷
 1. Japanese 🇯🇵
 
 ## Contact
+
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
 - E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
