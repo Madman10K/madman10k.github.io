@@ -76,6 +76,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - Сайт за учене на различни писмености
 1. [BGKS](https://github.com/MadLadSquad/BGKS) - Сайт за поправяне на граматични, пунктуационни и правописни грешки
+1. [LitTok](https://github.com/MadLadSquad/LitTok) - Сайт за четене на книги, във формата на TikTok
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Публична база данни с тестета за Youyin
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Монолитна база данни съдържаща информация за всички символи в Youyin
 1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform инструменти за работа с глобални шрифтове
