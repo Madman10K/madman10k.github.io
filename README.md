@@ -179,13 +179,18 @@ Additionally, sometimes, when I'm not learning Mandarin or German, I learn the f
 1. Serbo-Croatian 🇷🇸🇭🇷
 1. Japanese 🇯🇵
 
-## Contact
+## Contact and presense
+Contact:
 
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
 - E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
 - Discord server for MadLad Squad: <https://discord.gg/j8XZCPY>
 - Discord username: Madman10K#0345
+
+Pages:
+- Funtoo: <https://www.funtoo.org/User:Madman10k>
+- Bulgarian Wikipedia: <https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Madman10K>
 
 ## Hobbies
 The following are my main hobbies and interests:
@@ -217,4 +222,4 @@ Additionally, sometimes, I also dabble into the following fields:
 ## Blog about stuff you don't care about
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
-1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian)
+1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only

@@ -174,11 +174,18 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 1. Японски 🇯🇵
 
 ## Обратна връзка
+Обратна връзка:
+
 - Github: <https://github.com/Madman10K>
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
 - E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
 - Discord група на MadLad Squad: <https://discord.gg/j8XZCPY>
 - Discord потребителско име: Madman10K#0345
+
+Страници:
+
+- Funtoo: <https://www.funtoo.org/User:Madman10k>
+- Българска Wikipedia: <https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Madman10K>
 
 ## Лични интереси
 Интересувам се от следните теми:
@@ -207,3 +214,4 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ## Блог за маловажни неща
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide) - English only
+1. [WIP: лично предложение за реформа на различни части от българският език](https://madman10k.github.io/reforming-bulgarian)
