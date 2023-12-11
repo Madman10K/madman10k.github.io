@@ -222,4 +222,4 @@ Additionally, sometimes, I also dabble into the following fields:
 ## Blog about stuff you don't care about
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
-1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only
+<!--1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only-->

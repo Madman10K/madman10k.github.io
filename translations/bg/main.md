@@ -214,4 +214,4 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ## Блог за маловажни неща
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide) - English only
-1. [WIP: лично предложение за реформа на различни части от българският език](https://madman10k.github.io/reforming-bulgarian)
+<!--1. [WIP: лично предложение за реформа на различни части от българският език](https://madman10k.github.io/reforming-bulgarian)-->
