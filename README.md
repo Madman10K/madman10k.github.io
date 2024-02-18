@@ -126,12 +126,12 @@ assembly for debugging and optimizing programs.
 ## List of skills
 This is a list of skills for people who want to quickly learn what I am capable of:
 
-1. Programming languages
+1. Programming languages(in order of my knowledge level)
    - C and C++
-   - Python
-   - Bash and shell
+   - Bash & shell scripting
+   - HTML, CSS, JS & Markdown
    - Golang
-   - HTML, CSS, JS and Markdown
+   - Python
    - Rust
 1. Software development fields(in no particular order)
    - Game development
@@ -172,13 +172,6 @@ These are the languages I am currently learning:
 1. German 🇩🇪 - between A2 and B1
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new)
 
-Additionally, sometimes, when I'm not learning Mandarin or German, I learn the following languages:
-
-1. Russian 🇷🇺
-1. Macedonian 🇲🇰
-1. Serbo-Croatian 🇷🇸🇭🇷
-1. Japanese 🇯🇵
-
 ## Contact and presense
 Contact:
 
@@ -191,6 +184,7 @@ Contact:
 Pages:
 - Funtoo: <https://www.funtoo.org/User:Madman10k>
 - Bulgarian Wikipedia: <https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Madman10K>
+- Instagram: [@modusmio.bg](https://instagram.com/modusmio.bg) & [@bulgar3d](https://instagram.com/bulgar3d)
 
 ## Hobbies
 The following are my main hobbies and interests:
@@ -220,6 +214,8 @@ Additionally, sometimes, I also dabble into the following fields:
 1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
+Ordered chronologically:
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
+1. [3D models I've made](https://madman10k.github.io/3d)
 <!--1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only-->
