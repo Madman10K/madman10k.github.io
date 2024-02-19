@@ -135,32 +135,89 @@ This is a list of skills for people who want to quickly learn what I am capable 
    - Rust
 1. Software development fields(in no particular order)
    - Game development
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
    - Graphics programming
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
    - Desktop application development(Windows and Linux)
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
+     - [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
+     - [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome)
+     - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
+     - [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
    - Full stack web development(traditional web development, without frontend frameworks and in most cases without backend frameworks)
+     - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite)
+     - [Youyin](https://github.com/MadLadSquad/YouyinWeb)
+     - [BGKS](https://github.com/MadLadSquad/BGKS) - Under construction
+     - [LitTok](https://github.com/MadLadSquad/LitTok) - Under construction
+     - [Tiny.lol](https://tiny.lol) - Under construction
    - Software internationalisation
+     - All contribution to the [Funtoo i18n project](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29)
+     - [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N)
    - Library development
-   - CI/CD development
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N)
+     - [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme)
+     - [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser)
+     - [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
+     - [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen)
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
+     - [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils)
+     - [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
+     - [UntitledLog](https://github.com/MadLadSquad/UntitledLog)
    - Linux systems programming
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
    - Windows systems programming
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
    - Linux package development(ports-based packages)
-   - [Funtoo](https://funtoo.org/) package development(ebuild and autogen(python scripts to automatically generate new versions of an ebuild) development)
+     - All contributions to [Funtoo linux](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29)
+     - [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay)
+   - [Funtoo](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29) package development(ebuild and autogen(python scripts to automatically generate new versions of an ebuild) development)
    - [LXD](https://ubuntu.com/lxd) development(using the golang API)
+     - [UntitledGameSystemsManager](https://github.com/MadLadSquad/UntitledGameSystemsManager)
    - [DBus](https://en.wikipedia.org/wiki/D-Bus)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
    - IME development(for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus))
-   - [Discord](https://discord.com) bot development
-   - Programming language development(developed a lisp-like programming language for the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine))
+     - [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
+   - [Discord](https://discord.com) bot development in Golang
+     - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot)
+   - Programming language development
+     - Developed a lisp-like programming language for the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
    - SVG manipulation(heavily used to handle character recognition for [Youyin](https://youyin.madladsquad.com/))
-   - Autotools, CMake, Makefiles
-   - Audio programming(I have very little experience here)
+   - Autotools, CMake, Makefiles - Almost all projects listed above
 1. Non-programming concepts
-   - Product internationalisation
-   - 3D modelling and texturing(related to game development)
+   - Product internationalisation - Successfully brought the following projects to multiple markets by providing translations and adding locally-relevant content
+     - [Youyin](https://youyin.madladsquad.com)
+     - [BGKS](https://github.com/MadLadSquad/BGKS)
+     - [LitTok](https://github.com/MadLadSquad/LitTok)
+     - [Tiny.lol](https://tiny.lol)
+   - 3D modelling & texturing(related to game development, very little experience here) + 3D printing
+     - Check out my [3D printing page](https://www.instagram.com/bulgar3d)
+     - Check out my [3D modelling page](https://i-use-gentoo-btw.com/3d)
    - 2D/3D scene and level design(related to game development)
-   - Large project & team management
+   - Large project & team management - Managed the following large programming projects
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [Funtoo internalisation project](https://www.funtoo.org/Funtoo:Multilingual) - Managed only certain parts
    - Social media marketing and content creation(at [modusmio.bg](https://www.instagram.com/modusmio.bg/))
-   - Product development, deployment, monetisation and marketing(for [Youyin](https://youyin.madladsquad.com))
-   - Fonts and typography knowledge(for [Youyin](https://youyin.madladsquad.com) and [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils))
+   - Product development, deployment, monetisation and marketing
+     - [Youyin](https://youyin.madladsquad.com)
+     - [modusmio.bg](https://www.instagram.com/modusmio.bg)
+     - [BGKS](https://github.com/MadLadSquad/BGKS)
+     - [LitTok](https://github.com/MadLadSquad/LitTok)
+     - [Tiny.lol](https://tiny.lol)
+     - [bulgar3d](https://www.instagram.com/bulgar3d)
+   - Fonts and typography knowledge
+     - [Youyin](https://youyin.madladsquad.com)
+     - [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils)
    - Freelancing
    - Languages: 🇧🇬🇬🇧🇩🇪🇨🇳
 
@@ -209,9 +266,9 @@ Additionally, sometimes, I also dabble into the following fields:
 
 ## Fun facts
 
-1. I'm a [gentoo linux](https://www.gentoo.org/) user, [funtoo linux](https://www.funtoo.org/Welcome) to be exact
+1. I'm a [Gentoo Linux](https://www.gentoo.org/) user, [Funtoo Linux](https://www.funtoo.org/Welcome) to be exact
 1. I mostly write in 🇬🇧 english
-1. I use [colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
+1. I use [Colemak](https://colemak.com/) as my main keyboard layout and can write with 138 WPM, with [QWERTY](https://en.wikipedia.org/wiki/QWERTY) 56WPM
 
 ## Blog about stuff you don't care about
 Ordered chronologically:
