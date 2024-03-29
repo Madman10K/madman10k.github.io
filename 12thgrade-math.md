@@ -1,7 +1,25 @@
 In this document, I will explain the whole math material for 11th and 12th grade in Bulgaria, because if I don't do it I'm not finishing school :skull:
 
-## 11th grade
-Coming soon
+# 11th grade
+## Logarithm
+Special values: $`log_a(1) = 0`$, $`log_a(a) = 1`$, $`a^{log_a(b)} = b`$
+
+Logarithmic multiplication: $`log_a(xy) = log_a(x) + log_a(y)`$
+
+Logarithmic division: $`log_a({x \over y}) = log_a(x) - log_a(y)`$
+
+Logarithmic powers: $`log_a(x^y) = ylog_a(x)`$, $`log_a({\sqrt[n]{x}}) = {1 \over n}log_a(x)`$, $`log_{a^q}(b^p) = {p \over q}log_a(b)`$, $`log_a(x) = {log_b(x) \over log_b(a)}`$, $`log_a(b) = {lg(b) \over lg(a)}`$
+
+## Statistics
+Combinations are used when order doesn't matter: $`C_n^k = {n(n - 1)...(n - k + 1) \over 1}`$
+
+Conditional probability is calculated using the following formula: $`P(A|B) = {P(A \cap B) \over P(B)}`$ where `A` depends on `B`. $`P(A \cap B)`$ is the scenarios both events happen.
+
+Probability multiplication: $`P(A \cap B) = P(A)P(B|A)`$
+
+Independent events: 2 events are independent if A happens before B happens, if it happens at all. $`P(A | B) = P(A)`$. Therefore: $`P(A \cup B) = P(A)P(B)`$
+
+Newtone binome: $`(x+y)^5 = C^{0}_{5}x^5 + C^{1}_{5}x^4y + C^{2}_{5}x^3y^2 + C^{3}_{5}x^2y^3 + C^{4}_{5}x^1y^4 + C^{5}_{5}y^5`$
 
 # 12th grade
 ## Statistics
