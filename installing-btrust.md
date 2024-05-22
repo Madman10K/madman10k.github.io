@@ -9,7 +9,12 @@ Next, start the `pcscd` service on boot:
 ```
 root # rc-update pcscd add pcscd default
 ```
-Enable hotreloading by adding the following line to `/etc/rc.conf`:
+or the following for systemd:
+```
+root # systemctl systemctl enable pcscd
+```
+
+Enable hotreloading by adding the following line to `/etc/rc.conf` if on OpenRC:
 ```
 rc_hotplug="pcscd"
 ```
