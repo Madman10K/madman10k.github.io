@@ -2,8 +2,8 @@ This guide will help you install all required files and applications for using a
 
 ## Installing the required applications
 First, we need to install the applications that will interact with the card reader. These are:
-1. OpenSC
-2. PCSC-lite
+1. OpenSC - Gentoo/Funtoo: `root # emerge opensc`
+2. PCSC-lite - Gentoo/Funtoo: `root # emerge pcsc-lite`
 
 Next, start the `pcscd` service on boot:
 ```
@@ -19,6 +19,23 @@ root # usermod -a -G pcscd <user>
 root # usermod -a -G usb pcscd
 ```
 Reboot your PC.
+
+## Install AB Circle CCID drivers
+Many CCID readers in Bulgaria are made by a company, known as COMITEX, which produces readers such as the CCR7115B, which is
+quite popular. These readers use hardware made by AB Circle. They provide source tarballs, however the easiest way is to download
+a tarball obtained by invakid404's webscraper through 
+[invakid404's GitHub repository's releases](https://github.com/invakid404/abcccid/releases).
+
+Funtoo/Gentoo users can get an autogen and an ebuild from 
+[here](https://github.com/MadLadSquad/UntitledDesktopOverlay/tree/master/app-crypt/abcccid).
+
+To compile manually, extract all tarballs recursively, then enter `Circle_USB_Linux_Mac_Driver_v<version here>/abcccid-<version here>/` and run the following:
+```
+user $ ./configure
+user $ make -j <number of jobs>
+root # make install
+root # cp src/92_pcscd_abcccid.rules /etc/udev/rules.d/
+```
 
 ## Installing the required certificates
 ### Chromium
@@ -41,68 +58,19 @@ Click on the load button and load the `/usr/lib64/pkcs11/opensc-pkcs11.so` libra
 
 You should be able to click the login button and enter you PIN code.
 
-If everything is done correctly, you should be able to log into a site, like [nra.bg](https://login-portal.nra.bg/auth/login). If everything is successfull, you will be asked 
-for your QES PIN code and redirected further.
+If everything is done correctly, you should be able to log into a site, like [nra.bg](https://login-portal.nra.bg/auth/login). 
+If everything is successfull, you will be asked for your QES PIN code and redirected further.
 
-Otherwise, an `SSL_ERROR_HANDSHAKE_FAILURE_ALERT` error will be returned
+Otherwise, an `SSL_ERROR_HANDSHAKE_FAILURE_ALERT` error will be returned.
 
 ## Install BISS
-To digitally sign documents, you also need the BISS(Browser Independend Signing Service). You can download a tarball [here](https://www.b-trust.bg/services/software).
+To digitally sign documents, you also need the BISS(Browser Independend Signing Service). You can download a tarball 
+[here](https://www.b-trust.bg/services/software). Simply copy the files into your `/usr/local` or `~/.local` directories and
+create a symlink from `<prefix>/opt/btrustbiss/bin/BISS` to a binary directory, like `/usr/local/bin` or `~/.local/bin`.
 
-You can use the following ebuild to easily install it:
-```ebuild
-# Distributed under the terms of the GNU General Public License v2
+You can use an ebuild, like the one 
+[here](https://github.com/MadLadSquad/UntitledDesktopOverlay/tree/master/app-crypt/btrustbiss) to easily install it on 
+Gentoo/Funtoo systems. Note dependencies are not set, so you may lack some dependencies when compiling.
 
-EAPI="7"
-
-inherit desktop rpm xdg
-
-DESCRIPTION="Browser Independent Signing Service by Borika for signing files with a QES"
-HOMEPAGE="https://www.b-trust.bg/services/software"
-SRC_URI="https://www.b-trust.bg/attachments/BtrustPrivateFile/146/docs/B-TrustBISS.tar"
-
-LICENSE="EULA"
-SLOT="0"
-KEYWORDS="*"
-IUSE=""
-RESTRICT=""
-
-BDEPEND=""
-DEPEND=""
-RDEPEND=""
-
-S="${WORKDIR}"
-
-src_unpack() {
-	unpack "${A}"
-	rpm_unpack ./"${P}"-*.rpm
-}
-
-src_install() {
-	doicon opt/btrustbiss/lib/BISS.png
-	domenu opt/btrustbiss/lib/btrustbiss-BISS.desktop
-
-	insinto /opt/btrustbiss
-	doins -r opt/btrustbiss/.
-
-	fperms +x /opt/btrustbiss/bin/BISS
-	fperms 775 /opt/btrustbiss/lib/runtime/lib/*.so
-	fperms 775 /opt/btrustbiss/lib/runtime/lib/jexec
-	fperms 775 /opt/btrustbiss/lib/runtime/lib/jspawnhelper
-	dosym /opt/btrustbiss/bin/BISS usr/bin/BISS
-}
-
-pkg_postinst() {
-	xdg_mimeinfo_database_update
-	xdg_icon_cache_update
-	xdg_desktop_database_update
-}
-
-pkg_postrm() {
-	xdg_mimeinfo_database_update
-	xdg_icon_cache_update
-	xdg_desktop_database_update
-}
-```
-
-Once installed, you can run `BISS` and once running successfully you can try signing a file [here]().
+Once installed, you can run `user $ BISS` and once running successfully you can try signing a file 
+[here](https://wsp.b-trust.bg/WSP/?lang=bg).
