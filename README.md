@@ -275,4 +275,5 @@ Ordered chronologically:
 
 1. [Personal Funtoo Development Guide](https://madman10k.github.io/personal-funtoo-guide)
 1. [3D models I've made](https://madman10k.github.io/3d)
+1. [Installing and using a b-trust QES on Linux](https://madman10k.github.io/installing-btrust)
 <!--1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only-->
