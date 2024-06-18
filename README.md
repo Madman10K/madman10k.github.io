@@ -43,6 +43,7 @@ I am currently working on the following projects:
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) support in [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
 - Working on all [MadLadSquad projects](https://madladsquad.com/)
 - Creating content for the [modusmio.bg](https://www.instagram.com/modusmio.bg/) playlist
+- Managing the entirety of Bulgar3D
 
 ## MadLadSquad projects I am working on
 ### Games and game related
@@ -72,14 +73,17 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ### Multilingual
 
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - A website for learning how to write Chinese characters and other scripts
-1. [BGKS](https://github.com/MadLadSquad/BGKS) - A website for correcting grammar, spelling and punctuation
-1. [LitTok](https://github.com/MadLadSquad/LitTok) - Book reader website as a TikTok clone
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Public deck repository for Youyin
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Monolyth character database for Youyin
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Database for non-Chinese and Kana characters for Youyin, to be developed
 1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform utilities for dealing with system fonts, to be developed
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - A handwriting input method engine for [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus)
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - A C and C++ i18n library
+
+### Flipper Zero
+
+1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - A partial C++ wrapper on top of the Flipper Zero C API
+1. [FlipperTasks] - A to-do list application for the Flipper Zero
 
 ### Libraries and misc applications
 
@@ -150,8 +154,6 @@ This is a list of skills for people who want to quickly learn what I am capable 
    - Full stack web development(traditional web development, without frontend frameworks and in most cases without backend frameworks)
      - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite)
      - [Youyin](https://github.com/MadLadSquad/YouyinWeb)
-     - [BGKS](https://github.com/MadLadSquad/BGKS) - Under construction
-     - [LitTok](https://github.com/MadLadSquad/LitTok) - Under construction
      - [Tiny.lol](https://tiny.lol) - Under construction
    - Software internationalisation
      - All contribution to the [Funtoo i18n project](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29)
@@ -163,6 +165,7 @@ This is a list of skills for people who want to quickly learn what I am capable 
      - [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme)
      - [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser)
      - [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
+     - [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero)
      - [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen)
      - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
      - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
@@ -193,11 +196,12 @@ This is a list of skills for people who want to quickly learn what I am capable 
      - Developed a lisp-like programming language for the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
    - SVG manipulation(heavily used to handle character recognition for [Youyin](https://youyin.madladsquad.com/))
    - Autotools, CMake, Makefiles - Almost all projects listed above
+   - Embedded
+     - [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero)
+     - [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks)
 1. Non-programming concepts
    - Product internationalisation - Successfully brought the following projects to multiple markets by providing translations and adding locally-relevant content
      - [Youyin](https://youyin.madladsquad.com)
-     - [BGKS](https://github.com/MadLadSquad/BGKS)
-     - [LitTok](https://github.com/MadLadSquad/LitTok)
      - [Tiny.lol](https://tiny.lol)
    - 3D modelling & texturing(related to game development, very little experience here) + 3D printing
      - Check out my [3D printing page](https://www.instagram.com/bulgar3d)
@@ -207,14 +211,15 @@ This is a list of skills for people who want to quickly learn what I am capable 
      - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
      - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
      - [Funtoo internalisation project](https://www.funtoo.org/Funtoo:Multilingual) - Managed only certain parts
+     - [Youyin](https://github.com/MadLadSquad/YouyinWeb)
+     - [Tiny.lol](https://tiny.lol)
+     - [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
    - Social media marketing and content creation(at [modusmio.bg](https://www.instagram.com/modusmio.bg/))
    - Product development, deployment, monetisation and marketing
      - [Youyin](https://youyin.madladsquad.com)
      - [modusmio.bg](https://www.instagram.com/modusmio.bg)
-     - [BGKS](https://github.com/MadLadSquad/BGKS)
-     - [LitTok](https://github.com/MadLadSquad/LitTok)
      - [Tiny.lol](https://tiny.lol)
-     - [bulgar3d](https://www.instagram.com/bulgar3d)
+     - [Bulgar3D](https://www.instagram.com/bulgar3d)
    - Fonts and typography knowledge
      - [Youyin](https://youyin.madladsquad.com)
      - [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils)
