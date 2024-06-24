@@ -12,7 +12,7 @@
 
 От Юли 2022, работя по [the UntitledDesktopEnvironment](https://madladsquad.com/desktop), което е проект на [MadLadSquad](https://madladsquad.com), целящ
 да създаде напълно независима графична среда, като [Gnome](https://gnome.org/) и [KDE](https://kde.org/) за Linux и други операционни системи.
-Важно е да се отбележи, че за разлика от среди като XFCE или LXQT, ние използваме собствен toolkit и не разчитаме на софтуер, като GTK и QT.
+Средата е изградена върху библиотеки, които са независими от операционната система, както и от известните инструменти, като QT и GTK.
 
 За момента, средата бива разработвана, като основа за създаване на по-специализирани графични среди, което означава, че е минимална и не съдържа
 голямо количество от програмите, които среди като KDE или Gnome предоставят. 
@@ -23,7 +23,7 @@ framework, [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledI
 ## Проекти
 
 1. Безименна игра в Unity - Януари - Февруари 2018
-1. Дозина недовържени singleplayer игри с различни версии на Unreal Engine - Април 2018 до Август 2019
+1. Дузина недовържени singleplayer игри с различни версии на Unreal Engine - Април 2018 до Август 2019
 1. Multiplayer FPS игра направена с UE4 - 8-ми септември 2019 - 31-ви август 2020
 1. The [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine) - от 4-ти май 2020
 1. The [UntitledDiscordBot](https://github.com/MadLadSquad/MadLadSquadBot) - от август 2021
@@ -46,6 +46,7 @@ framework, [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledI
 - [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) поддръжка във [Funtoo linux](https://www.funtoo.org/Funtoo:CJK)
 - Поддръжка на всички [MadLadSquad проекти](https://madladsquad.com/)
 - Създаване на постове за [Модус Мио БГ](https://instagram.com/modusmio.bg/) плейлиста
+- Всички длъжности в Bulgar3D
 
 ## Проекти, част от MadLadSquad
 ### Игри или свързани с игри
@@ -75,13 +76,17 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ### Мултиезични проекти
 
 1. [Youyin](https://github.com/MadLadSquad/YouyinWeb) - Сайт за учене на различни писмености
-1. [BGKS](https://github.com/MadLadSquad/BGKS) - Сайт за поправяне на граматични, пунктуационни и правописни грешки
-1. [LitTok](https://github.com/MadLadSquad/LitTok) - Сайт за четене на книги, във формата на TikTok
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - Публична база данни с тестета за Youyin
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - Монолитна база данни съдържаща информация за всички символи в Youyin
+1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - Монолитна база данни съдържаща информация за допълнителни символи за hanzi-writer
 1. [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils) - Cross-platform инструменти за работа с глобални шрифтове
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - IME за [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus), което разпознава символи, когато биват написани ръкописно
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - C и C++ библиотека за интернационализация
+
+### Flipper Zero
+
+1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - Частичен C++ wrapper над Flipper Zero C API-а
+1. [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) - Програма "Списък със задачи" за Flipper Zero
 
 ### Библиотеки и други програми
 
@@ -128,34 +133,91 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
    - Bash и shell
    - Golang
    - HTML, CSS, JS и Markdown
+   - Objective-C
    - Rust
 1. В софтуерната сфера(подредбата е случайна)
    - Разработка на игри
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
    - Графично програмиране
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
    - Програми за настолни операционни системи(Windows и Linux)
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [UntitledGameSystemManager](https://github.com/MadLadSquad/UntitledGameSystemManager)
+     - [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
+     - [UntitledDEWelcome](https://github.com/MadLadSquad/UntitledDEWelcome)
+     - [UDFPanel](https://github.com/MadLadSquad/UDFPanel)
+     - [UntitledDESessionLogout](https://github.com/MadLadSquad/UntitledDESessionLogout)
    - Full stack web раработка(традиционна web разработка, без frontend framework-ове и в повечето случаи, без backend framework-ове)
+     - [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite)
+     - [Youyin](https://github.com/MadLadSquad/YouyinWeb)
+     - [Tiny.lol](https://tiny.lol) - Under construction
    - Интернационализация на софтуерни продукти
+     - All contribution to the [Funtoo i18n project](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29)
+     - [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N)
    - Разработка на библиотеки и framework-ове
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N)
+     - [UntitledImGuiTheme](https://github.com/MadLadSquad/UntitledImGuiTheme)
+     - [UntitledCLIParser](https://github.com/MadLadSquad/UntitledCLIParser)
+     - [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine)
+     - [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero)
+     - [UntitledOpen](https://github.com/MadLadSquad/UntitledOpen)
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
+     - [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils)
+     - [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
+     - [UntitledLog](https://github.com/MadLadSquad/UntitledLog)
    - CI/CD
    - Системно програмиране за Линукс и други Юникс операционни
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
    - Системно програмиране за Windows
+     - [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader)
+     - [UntitledExec](https://github.com/MadLadSquad/UntitledExec)
    - Разработка на пакети за Linux системи(формати, основани на ports системата)
+     - Всички пакети, част от този билет във [Funtoo linux](https://bugs.funtoo.org/browse/FL-11979?jql=assignee%20in%20%28madman10k%29)
+     - [UntitledDesktopOverlay](https://github.com/MadLadSquad/UntitledDesktopOverlay)
    - Разработка на пакети за [Funtoo](https://funtoo.org/)(ebuild и autogen(python script-ове, които автоматично генерират нови версии))
    - Разработка на програми с [LXD](https://ubuntu.com/lxd)(използвайки golang API-а)
+     - [UntitledGameSystemsManager](https://github.com/MadLadSquad/UntitledGameSystemsManager)
    - [DBus](https://en.wikipedia.org/wiki/D-Bus)
+     - [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils)
    - Разработка на IME програми(за [ibus](https://en.wikipedia.org/wiki/Intelligent_Input_Bus))
+     - [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting)
    - Разработка на бот-ове за [Discord](https://discord.com)
+     - [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot)
    - Разработна на програмни езици(разработка lisp-подобен език за the [UntitledTemplatingEngine](https://github.com/MadLadSquad/UntitledTemplatingEngine))
    - Манипулация на SVG файлове(heavily used to handle character recognition for [Youyin](https://youyin.madladsquad.com/))
    - Autotools, CMake, Makefile-ове
-   - Аудио програмиране(опитът ми е много малък)
+   - Embedded
+     - [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero)
+     - [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks)
 1. Други
    - Интернационализация на продукти
+     - [Youyin](https://youyin.madladsquad.com)
+     - [Tiny.lol](https://tiny.lol)
    - 3Д моделиране и texturing(за игри)
+     - [Страницата ми за 3D printing](https://www.instagram.com/bulgar3d)
+     - [3D моделите ми](https://i-use-gentoo-btw.com/3d)
    - 2D/3D дизайн на сцени и нива(за игри)
    - Мениджмънт на големи проекти и мениджмънт на отбор
+     - [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngine)
+     - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+     - [Funtoo internalisation project](https://www.funtoo.org/Funtoo:Multilingual) - Managed only certain parts
+     - [Youyin](https://github.com/MadLadSquad/YouyinWeb)
+     - [Tiny.lol](https://tiny.lol)
+     - [UntitledDesktopEnvironment](https://madladsquad.com/desktop)
    - Social media маркетинг(за [Модус Мио БГ](https://www.instagram.com/modusmio.bg/))
-   - Пълна разработка, монетизация, маркетинг и реализация на софтуерен проект(за [Youyin](https://youyin.madladsquad.com))
+   - Пълна разработка, монетизация, маркетинг и реализация на софтуерен проект
+     - [Youyin](https://youyin.madladsquad.com)
+     - [modusmio.bg](https://www.instagram.com/modusmio.bg)
+     - [Tiny.lol](https://tiny.lol)
+     - [Bulgar3D](https://www.instagram.com/bulgar3d)
    - Шрифтове и познания по типография(за [Youyin](https://youyin.madladsquad.com) и [UntitledFontUtils](https://github.com/MadLadSquad/UntitledFontUtils))
    - Freelancing
    - Езици: 🇧🇬🇬🇧🇩🇪🇨🇳
