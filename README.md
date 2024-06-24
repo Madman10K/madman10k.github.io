@@ -83,7 +83,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 ### Flipper Zero
 
 1. [UntitledFlipperZero](https://github.com/MadLadSquad/UntitledFlipperZero) - A partial C++ wrapper on top of the Flipper Zero C API
-1. [FlipperTasks] - A to-do list application for the Flipper Zero
+1. [FlipperTasks](https://github.com/MadLadSquad/FlipperTasks) - A to-do list application for the Flipper Zero
 
 ### Libraries and misc applications
 
