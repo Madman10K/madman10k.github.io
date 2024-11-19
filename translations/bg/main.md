@@ -242,7 +242,7 @@ made for our desktop environment(UntitledDesktopEnvironment/UDE)
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
 - E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
 - Discord група на MadLad Squad: <https://discord.gg/j8XZCPY>
-- Discord потребителско име: Madman10K#0345
+- Discord потребителско име: madmanisch10k
 
 Страници:
 
