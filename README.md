@@ -241,7 +241,7 @@ Contact:
 - MadLad Squad Github: <https://github.com/MadLadSquad/>
 - E-mail: stanv.contact176@gmail.com, contact@madman10k.online, contact@i-use-gentoo-btw.com
 - Discord server for MadLad Squad: <https://discord.gg/j8XZCPY>
-- Discord username: Madman10K#0345
+- Discord username: madmanisch10k
 
 Pages:
 - Funtoo: <https://www.funtoo.org/User:Madman10k>
