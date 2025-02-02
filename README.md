@@ -1,8 +1,9 @@
 # Hello everyone 👋🏻
-I am Stanislav, also known as Madman10K. I am a 19 years old Bulgarian software developer born from Sofia. I program primarily in C & C++.
+I am Stanislav Vasilev, also known as Madman10K. I am a 19 years old Bulgarian software developer born from Sofia. I program primarily in C & C++.
 
 ## About
-I started my software development journey when I was 12 years old in 2018. Over the years I have focused on working in the following roles with the skills I have gained as subpoints:
+I started my software development journey when I was 12 years old in 2018. Over the years I have focused on working in the roles listed belowed, with the skills I have gained 
+for each role as subpoints:
 
 1. Game developer 2018 - 2020: mainly developing games with Unreal Engine 4
    - Game development with Unreal Engine 4
@@ -34,8 +35,14 @@ I started my software development journey when I was 12 years old in 2018. Over 
    - Desktop application development
    - Software internationalisation
    - Linux systems programming
+   - Linux desktop application development
    - Windows systems programming
+   - Windows desktop application development
    - macOS systems programming
+   - macOS desktop application development
+   - iPadOS application development
+   - Android systems programming
+   - Android application development
    - Graphics programming
    - Vulkan
    - OpenGL
