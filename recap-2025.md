@@ -1,6 +1,5 @@
 # Celebrating 7 years of my developer journey, and the culmination of the last 5
-This blog post is going to be really personal. I wanted to write about my story developing one of my biggest projects for the past 2.5 years. It just so happens that in January 2025
-it's officially 7 years since I started programming back in January 2018.
+I wanted to write about my story developing one of my biggest projects for the past 2.5 years. It just so happens that in January 2025 it's officially 7 years since I started programming back in January 2018.
 
 In this blog post I will share my entire story, from day 1, until today, as well as introducing you to the culmination of the last 5 years of work and what this means for the future
 of my software developer journey.
@@ -51,7 +50,7 @@ This lead to many interesting side effects in the design of many systems and API
 the engine would automatiacally generate C++ files for you to start developing different game classes, or for generating C++ code from blueprint files. This made it really convenient
 to share projects between other people and even versions of the engine, due to it getting rid of the need to rely on bundling the game engine or its build system with your project.
 
-This, coupled with standard directories for certain types of files made it really easy to create a project and just add your code to an event without thinking about how you're 
+This, coupled with standard directories for certain types of files, made it really easy to create a project and just add your code to an event without thinking about how you're 
 building, creating the render loop and adding your different engine components manually. Infact, as in UE4, the file generator also made sure to take care of automatically 
 adding certain classes to the engine's systems automatically. So you didn't even need to worry about adding your pawn or level classes to an array. You just had to ask the 
 build tool to create the class for you, rebuild, run and the given component should had been added to the engine's systems automatically.
@@ -168,3 +167,42 @@ A large part of my work during this period was directly focused on getting the [
 
 This project is the first large-scale project that I have managed to get to 1.0 status, with its roots starting almost 5 years ago. I will try to advertise this project and probably
 add a number of big changes after I really get some users to really use it in their production applications.
+
+## What the future entails
+Now to the fun part, trying to foresee the future. Here are my predictions/plans for the next 2/3 years:
+
+1. Start work on 1.X release of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework), adding support for Android, iOS and iPadOS
+1. Probably release my first paid application
+1. Releasing the 1.0 version of [tiny.lol](https://tiny.lol), which is going to be a link shortener service
+1. Releasing the 1.0 version of [Youyin](https://youyin.madladsquad.com)
+1. Releasing the 1.0 and possibly 2.0 version of [pkggen](https://pkggen.madladsquad.com)
+1. Probably writing an ebook/creating an online course on software distribution, cross-platform desktop application development or software internationalisation
+1. Maybe I will even start working on a game after all those years?
+
+### UntitledImGuiFramework 2.0
+The thing is, even though it took 2.5 years to get the 1.0 release off the ground, there is still a lot of places, where the framework lacks functionality due to its current design.
+
+One of the main issues with the current version of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) is the lack of IME support. On desktop this is kind of
+annoying, since people can still type in text boxes with their IME, but the IME window is located below the window instead of next to the text box in question. On mobile and web, however,
+this is really infuriating, because as you might know, phones and tablets use IME for all their character input.
+
+To fix this issue, a change of windowing library backend will be required, which is not something that we can do right now.
+
+OS integration is another issue, where our Wayland support lacks core windowing functions, while integration with the OS global menu on macOS is non-existent. Support for Wayland will be easily
+fixed with time, however the macOS global menu issue has to be resolved using an adapter that will require a breaking change for our components-based system, possibly requiring a great rework or
+the removal of the titlebar component type.
+
+### pkggen 1.0
+The [pkggen](https://pkggen.madladsquad.com) utility is my newest project. It is a utility for automatically generating, testing and publishing desktop application packages from templates for multiple distributions.
+It is greatly inspired by the [Funtoo Metatools project](https://www.funtoo.org/Funtoo:Metatools), however it is not distribution-specific and can be used by both application developers and distribution maintainers, due to its flexible architecture.
+
+### Youyin 1.0
+Releasing the 1.0 version of Youyin has been really tricky, due to the need to add more than 5K missing characters to the character database. The main bottleneck has been a lack for a tool to easily edit fonts. The good news is
+that at [Heapforge](https://heapforge.com), we're currently working on creating a cross-platform font editing application specifically for those who need to edit large font files. This application will also have Youyin/hanzi-writer/make-me-a-hanzi
+integration to allow users to generate their own characters too.
+
+### Ebooks and courses
+Given my large amount of knowledge about modern operating systems, desktop application development, software distribution and internationalisation, I have planned to write a number of short ebooks that will give people a quick and easy introduction into
+these topics.
+
+I might also create online video courses based on these ebooks in the future.
