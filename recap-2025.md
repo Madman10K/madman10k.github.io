@@ -206,3 +206,6 @@ Given my large amount of knowledge about modern operating systems, desktop appli
 these topics.
 
 I might also create online video courses based on these ebooks in the future.
+
+### Returning to game development
+Funnily enough, long ago I bought a Steam publishing license, so I also develop a small game and publish it on Steam in the next couple of years. Maybe a revive of one of my past projects? Nobody really knows what, or if I will ever get back into game development again.
