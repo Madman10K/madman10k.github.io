@@ -203,9 +203,9 @@ Additionally, sometimes, I also dabble into the following fields:
 1. Electronics
 1. Playing videogames
 
-## Blog about stuff you don't care about
+## Blog
 Ordered chronologically:
 
 1. [Installing and using a b-trust QES on Linux](https://madman10k.github.io/installing-btrust)
-1. [2.2.2025 - Celebrating 7 years of my developer journey and the culmination of the last 5](https://madman10k.github.io/recap-2025)
+1. [5.2.2025 - Celebrating 7 years of my developer journey and the culmination of the last 5](https://madman10k.github.io/recap-2025)
 <!--1. [WIP: personal thought on a bulgarian language reform](https://madman10k.github.io/reforming-bulgarian) - Bulgarian only-->
