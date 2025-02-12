@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 rm -rf *.md
-rm -rf Components/ UBTCustomFunctions/ .github/ docs/ monthly-newsletter/ untitled-desktop/
+rm -rf Components/ UBTCustomFunctions/ .github/ blog/
 mv build/*.html .
 mv build/*/ .
 rm -rf build/ UVKBuildTool/
