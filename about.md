@@ -1,4 +1,4 @@
-## About me
+# About me
 I am a 19 years old Bulgarian software developer, mainly specialising in the fields of:
 
 1. Cross-platform application development
