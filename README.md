@@ -1,7 +1,8 @@
 # Hello everyone 👋🏻
 I am Stanislav Vasilev, also known as Madman10K, a 19 years old Bulgarian software developer from Sofia.
 
-I am mostly known for my software development projects, specifically:
+I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as a co-founder of [Heapforge](https://heapforge.com). I am also known for my numerous 
+software development projects, specifically:
 
 1. [The UntitledDesktopEnvironment](https://madladsquad.com/desktop) - a desktop environment for Freedesktop operating systems from scratch
 1. [The UntitledImGuiFraemework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a desktop application development toolkit written from scratch
@@ -17,7 +18,7 @@ I am mostly known for my software development projects, specifically:
 1. [UntitledDBusUtils](https://github.com/MadLadSquad/UntitledDBusUtils) - a C++ metaprogramming wrapper on top of the low level dbus C API that introduces type- and memory safety
 1. The modusmio.bg bulgarian hip-hop Instagram page(now deleted)
 
-Since 2018 I have developed and released over 40 FOSS projects, ranging from libraries, frameworks, game engines, development tools, CI/CD tooling. Of course, there are many more
-projects that have not made it to their first release, with many being shelved. My current plan is reviving old projects, while creating some new software as well.
+Since 2018 I have developed and released over 50 FOSS projects, ranging from libraries, frameworks, game engines, development tools, CI/CD tooling and more. Of course, there are many more
+projects that have not made it to their first release, with many being shelved. My current plan is to revive old projects, while aiming to create some new software as well.
 
-I am also a student at the [Technical University in Sofia, Bulgaria](https://tu-sofia.bg), where I currently study Computer and Software Engineeringa for my bachelor's degree.
+I am also a student at the [Technical University in Sofia, Bulgaria](https://tu-sofia.bg), where I currently study Computer and Software Engineering for my bachelor's degree.
