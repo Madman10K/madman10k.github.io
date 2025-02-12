@@ -4,7 +4,6 @@ rm -rf Components/ UBTCustomFunctions/ .github/ blog/
 mv build/*.html .
 mv build/*/ .
 rm -rf build/ UVKBuildTool/
-mv docs/UVKBuildToolN docs/UVKBuildTool
 
 for i in `find ./ -type f -name '*.html' -printf '%p\n'` ; do
 	sed -i 's/\.\//https:\/\/i-use-gentoo-btw.com\//g' "$i"
