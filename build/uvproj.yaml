@@ -1,0 +1,21 @@
+localhost-commands:
+  - "find ./ -type f \\( -iname \\*.html -o -iname \\*.js \\) -exec sed -i 's/\\.\\//http:\\/\\/localhost:8080\\//g' {} \\;"
+  - "python3 -m http.server 8080"
+allowed-extensions:
+  - html
+  - js
+  - yaml
+  - yml
+filename-blacklist:
+  - .git
+  - UBTCustomFunctions
+  - UVKBuildTool
+  - .github
+  - .idea
+  - .vs
+  - Translations
+intermediate-extensions:
+  - .tmpl.html
+variables:
+  - var: trademark
+    val: Stanislav Vasilev
