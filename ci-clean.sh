@@ -7,7 +7,7 @@ rm -rf build/ UVKBuildTool/
 mv docs/UVKBuildToolN docs/UVKBuildTool
 
 for i in `find ./ -type f -name '*.html' -printf '%p\n'` ; do
-	sed -i 's/\.\//https:\/\/madladsquad.com\//g' "$i"
+	sed -i 's/\.\//https:\/\/i-use-gentoo-btw.com\//g' "$i"
 	sed -i 's/\/index\.html//g' "$i"
 	sed -i 's/\.html//g' "$i"
 done
