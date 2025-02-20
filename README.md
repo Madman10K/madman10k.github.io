@@ -5,7 +5,7 @@ I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and a
 software development projects, specifically:
 
 1. [The UntitledDesktopEnvironment](https://madladsquad.com/desktop) - a desktop environment for Freedesktop operating systems from scratch
-1. [The UntitledImGuiFraemework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a desktop application development toolkit written from scratch
+1. [The UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a desktop application development toolkit written from scratch
 1. [The UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld) - my old game engine
 1. [pkggen](https://pkggen.madladsquad.com) - a tool for automatically updating, testing and deploying desktop packages of new software
 1. [Youyin](https://youyin.madladsquad.com) - a website for learning foreign writing systems
