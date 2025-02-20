@@ -7,8 +7,11 @@ I am a 19 years old Bulgarian software developer, mainly specialising in the fie
 1. Software distribution
 1. Software internationalisation
 
-I am currently studying Computer and Software Engineering at the [Technical University of Sofia](https://tu-sofia.bg) in Bulgaria. I also have a day job, working on an unreleased tool
-that greatly helps with the development and debugging of complex applications and systems of applications. In my free time, I mainly work on one of my numerous projects, 
+I am currently studying Computer and Software Engineering at the [Technical University of Sofia](https://tu-sofia.bg) in Bulgaria. 
+
+At my day job, I mainly work on a powerful time-travelling debugger. 
+
+In my free time, I mainly work on one of my numerous projects, 
 mainly the [UntitledDesktopEnvironment](https://madladsquad.com/desktop) and its custom desktop application development toolkit: 
 [the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework).
 
@@ -51,6 +54,7 @@ for each role as subpoints:
    - Windows desktop application development
    - macOS systems programming
    - macOS desktop application development
+   - iOS application development
    - iPadOS application development
    - Android systems programming
    - Android application development
@@ -75,6 +79,7 @@ for each role as subpoints:
    - CI/CD
    - Large project & team management
    - Fonts and typography
+   - Flutter
 1. Web developer 2020 - present: developed a number web applications, both simple and complex using vanilla JS, C++ and Rust
    - HTML, CSS, JS
    - Rust
@@ -95,6 +100,28 @@ for each role as subpoints:
    - Python
    - Bash & shell scripting
    - DevOps
+1. Developer at Metacraft Labs September 2024 - present: developing a powerful time-travelling debugger
+   - Desktop application development
+   - Software internationalisation
+   - Linux systems programming
+   - Linux desktop application development
+   - macOS systems programming
+   - macOS desktop application development
+   - Windows systems programming
+   - Windows desktop application development
+   - C/C++
+   - Ruby
+   - Python
+   - Noir
+   - Nim
+   - Rust
+   - Tup build system
+   - Just command runner
+   - Nix package development
+   - Shell/bash scripting
+   - Autotools/CMake/make
+   - Electron
+   - Javascript
 1. Unannounced [Heapforge](https://heapforge.com) project 2025 - present: developing an unannounced project in the field of graphic design
    - SVG manipulation
    - Fonts and typography
