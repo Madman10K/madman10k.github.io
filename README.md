@@ -1,11 +1,12 @@
 # Hello everyone 👋🏻
 I am Stanislav Vasilev, also known as Madman10K, a 19 years old Bulgarian software developer from Sofia.
 
-I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as a co-founder of [Heapforge](https://heapforge.com). I am also known for my numerous 
-software development projects, specifically:
+I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as a co-founder of [Heapforge](https://heapforge.com). I am also known for the numerous 
+software development projects I started or contributed to, mainly:
 
 1. [The UntitledDesktopEnvironment](https://madladsquad.com/desktop) - a desktop environment for Freedesktop operating systems from scratch
 1. [The UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a desktop application development toolkit written from scratch
+1. My work on [CodeTracer](https://github.com/metacraft-labs/codetracer) at Metacraft Labs - a time-travelling debugger with a custom backend for Ruby and Noir and an [rr](https://rr-project.org)-based backend for C, C++, Rust, Go and more
 1. [The UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld) - my old game engine
 1. [pkggen](https://pkggen.madladsquad.com) - a tool for automatically updating, testing and deploying desktop packages of new software
 1. [Youyin](https://youyin.madladsquad.com) - a website for learning foreign writing systems
