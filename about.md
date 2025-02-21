@@ -9,7 +9,7 @@ I am a 19 years old Bulgarian software developer, mainly specialising in the fie
 
 I am currently studying Computer and Software Engineering at the [Technical University of Sofia](https://tu-sofia.bg) in Bulgaria. 
 
-At my day job, I mainly work on a powerful time-travelling debugger. 
+At my day job at Metacraft Labs, I work on the [CodeTracer](https://github.com/metacraft-labs/codetracer) time-travelling debugger for Ruby, Noir, C, C++, Rust, Go and more.
 
 In my free time, I mainly work on one of my numerous projects, 
 mainly the [UntitledDesktopEnvironment](https://madladsquad.com/desktop) and its custom desktop application development toolkit: 
@@ -100,7 +100,7 @@ for each role as subpoints:
    - Python
    - Bash & shell scripting
    - DevOps
-1. Developer at Metacraft Labs September 2024 - present: developing a powerful time-travelling debugger
+1. Developer at Metacraft Labs September 2024 - present: working on the [CodeTracer](https://github.com/metacraft-labs/codetracer) time-travelling debugger for Ruby, Noir, C, C++, Rust, Go and more.
    - Desktop application development
    - Software internationalisation
    - Linux systems programming
@@ -115,6 +115,7 @@ for each role as subpoints:
    - Noir
    - Nim
    - Rust
+   - Go
    - Tup build system
    - Just command runner
    - Nix package development
