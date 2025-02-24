@@ -201,11 +201,5 @@ Releasing the 1.0 version of Youyin has been really tricky, due to the need to a
 that at [Heapforge](https://heapforge.com), we're currently working on creating a cross-platform font editing application specifically for those who need to edit large font files. This application will also have Youyin/hanzi-writer/make-me-a-hanzi
 integration to allow users to generate their own characters too.
 
-### Ebooks and courses
-Given my large amount of knowledge about modern operating systems, desktop application development, software distribution and internationalisation, I have planned to write a number of short ebooks that will give people a quick and easy introduction into
-these topics.
-
-I might also create online video courses based on these ebooks in the future.
-
 ### Returning to game development
 Funnily enough, long ago I bought a Steam publishing license, so I also develop a small game and publish it on Steam in the next couple of years. Maybe a revive of one of my past projects? Nobody really knows what, or if I will ever get back into game development again.
