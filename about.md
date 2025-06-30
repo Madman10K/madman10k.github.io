@@ -62,9 +62,14 @@ for each role as subpoints:
    - Vulkan
    - OpenGL
    - WebGPU
+   - Metal
+   - DirectX 11
+   - DirectX 12
+   - bgfx
    - WASM
    - Emscripten
    - C/C++
+   - Objective C/C++
    - Shell/Bash
    - Rust
    - Golang
@@ -168,7 +173,7 @@ Libraries and frameworks:
 1. [UntitledRuntimeLibraryLoader](https://github.com/MadLadSquad/UntitledRuntimeLibraryLoader) - a cross-platform library for loading shared libraries at runtime
 1. [UntitledXDGBasedir](https://github.com/MadLadSquad/UntitledXDGBasedir) - a C/C++ implementation of the XDG Base directory and XDG home directory specifications
 1. [UntitledDesktopBootstrap](https://github.com/MadLadSquad/UntitledDesktopBootstrap)\* - a number of scripts for bootstrapping the UntitledDesktopEnvironment
-1. [UImGuiBgfx](https://github.com/MadLadSquad/UImGuiBgfx) - An example custom renderer implementation using [bgfx](https://github.com/bkaradzic/bgfx).
+1. [UImGuiRendererExamples](https://github.com/MadLadSquad/UImGuiRendererExamples) - Example custom renderers for the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
 
 Applications:
 
