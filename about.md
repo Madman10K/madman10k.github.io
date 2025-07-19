@@ -235,19 +235,3 @@ These are the languages I am currently learning:
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new)
 
 In the future I might start learning more languages, though given my tight schedule that might not happen soon 😬.
-
-## Hobbies and interests
-I am mainly interested in:
-
-1. Language learning 🇧🇬🇬🇧🇩🇪🇨🇳
-1. Skateboarding 🛹
-1. Travelling 🛩️
-1. Video games(have not played in years though) 🎮
-
-I want to devote more time to:
-
-1. Sketching and drawing ✍🏻
-1. Calligraphy and typography 🔤
-1. Music production 🎹
-1. 3D modelling 📦
-1. Creative writing 📝
