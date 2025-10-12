@@ -243,7 +243,7 @@ Libraries and applications:
 This is my current work experience, outside of my own personal projects:
 
 1. 2020 - 2021: freelance programmer
-1. September 2024 - present: part-time developer at Metacraft Labs Ltd. Project not yet released.
+1. September 2024 - present: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
 
 ## Human languages
 These are the languages I am currently learning:
