@@ -35,6 +35,11 @@ for each role as subpoints:
    - OpenGL
    - C/C++
    - Shell/Bash
+   - GLEW
+   - GLFW
+   - Win32 API
+   - Unix IPC
+   - Windows IPC
 1. Maintaining Funtoo Linux i18n packages 2022 - 2024: added, autogenned and maintained a large part of the packages covered by the [Funtoo Linux Multilingual Project](https://www.funtoo.org/Funtoo:Multilingual)
    - DevOps
    - Desktop packaging
@@ -89,6 +94,17 @@ for each role as subpoints:
    - RPM package development
    - Arch PKGBUILD package development
    - Ebuild package development
+   - GLFW
+   - SDL3
+   - GLEW
+   - GLAD
+   - Wayland application development
+   - X11 application development
+   - Cocoa application development
+   - Win32 API application development
+   - dear imgui
+   - Unix IPC
+   - Windows IPC
 1. Web developer 2020 - present: developed a number web applications, both simple and complex using vanilla JS, C++ and Rust
    - HTML, CSS, JS
    - Rust
@@ -140,6 +156,9 @@ for each role as subpoints:
    - RPM package development
    - Arch PKGBUILD package development
    - Ebuild package development
+   - Debugging
+   - Debugger develoment
+   - Unix IPC
 1. Unannounced [Heapforge](https://heapforge.com) project 2025 - present: developing an unannounced project in the field of graphic design
    - SVG manipulation
    - Fonts and typography
