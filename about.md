@@ -246,11 +246,10 @@ This is my current work experience, outside of my own personal projects:
 1. September 2024 - present: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
 
 ## Human languages
-These are the languages I am currently learning:
+These are the languages I currently know or am learning:
 
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - B1
-1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new)
-
-In the future I might start learning more languages, though given my tight schedule that might not happen soon 😬.
+1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new HSK)
+1. Modern Greek 🇬🇷 - A1
