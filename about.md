@@ -9,15 +9,11 @@ I am a 19 years old Bulgarian software developer, mainly specialising in the fie
 
 I am currently studying Computer and Software Engineering at the [Technical University of Sofia](https://tu-sofia.bg) in Bulgaria. 
 
-At my day job at Metacraft Labs, I work on the [CodeTracer](https://github.com/metacraft-labs/codetracer) time-travelling debugger for Ruby, Noir, C, C++, Rust, Go and more.
-
-In my free time, I mainly work on one of my numerous projects, 
-mainly the [UntitledDesktopEnvironment](https://madladsquad.com/desktop) and its custom desktop application development toolkit: 
-[the UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework).
+In my free time, I mainly work on one of my side projects.
 
 ## Software development
-I started my software development journey when I was 12 years old in 2018. Over the years I have focused on working in the roles listed belowed, with the skills I have gained 
-for each role as subpoints:
+I started my software development journey when I was 12 years old in 2018. The list below contains all the roles I have undertaken
+between 2018 and now with all skills I have gained as subpoints:
 
 1. Game developer 2018 - 2020: mainly developing games with Unreal Engine 4
    - Game development with Unreal Engine 4
@@ -159,6 +155,12 @@ for each role as subpoints:
    - Debugging
    - Debugger develoment
    - Unix IPC
+   - LLDB
+   - LLDB API
+   - LLVM public API
+   - GDB
+   - GDB API
+   - rr debugger
 1. Unannounced [Heapforge](https://heapforge.com) project 2025 - present: developing an unannounced project in the field of graphic design
    - SVG manipulation
    - Fonts and typography
@@ -227,6 +229,7 @@ Libraries and applications:
 
 1. [UntitledVulkanGameEngine](https://github.com/MadLadSquad/UntitledVulkanGameEngineOld) - the UntitledVulkanGameEngine source code
 1. UntitledCubeRotator - A fun showcase of the custom renderer capabilities of the [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
+
 ### Misc
 
 1. [MadLadSquadBot](https://github.com/MadLadSquad/MadLadSquadBot) - the discord bot for the MadLadSquad discord server
@@ -243,13 +246,13 @@ Libraries and applications:
 This is my current work experience, outside of my own personal projects:
 
 1. 2020 - 2021: freelance programmer
-1. September 2024 - present: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
+1. September 2024 - January 2025: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
 
 ## Human languages
 These are the languages I currently know or am learning:
 
 1. Bulgarian 🇧🇬 - native
 1. English 🇬🇧 - between C1 and C2
-1. German 🇩🇪 - B1
+1. German 🇩🇪 - between B1 and B2
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new HSK)
 1. Modern Greek 🇬🇷 - A1
