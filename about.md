@@ -246,7 +246,7 @@ Libraries and applications:
 This is my current work experience, outside of my own personal projects:
 
 1. 2020 - 2021: freelance programmer
-1. September 2024 - January 2025: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
+1. September 2024 - January 2026: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
 
 ## Human languages
 These are the languages I currently know or am learning:
@@ -255,4 +255,4 @@ These are the languages I currently know or am learning:
 1. English 🇬🇧 - between C1 and C2
 1. German 🇩🇪 - between B1 and B2
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new HSK)
-1. Modern Greek 🇬🇷 - A1
+1. Modern Greek 🇬🇷 - just started learning it, still not A1
