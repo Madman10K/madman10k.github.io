@@ -1,5 +1,5 @@
 # Hello everyone 👋🏻
-I am Stanislav Vasilev, also known as Madman10K, a 19 years old Bulgarian software developer from Sofia.
+I am Stanislav Vasilev, also known as Madman10K, a 20 years old Bulgarian software developer from Sofia.
 
 I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as a co-founder of [Heapforge](https://heapforge.com). 
 I am also known for the numerous projects I started or contributed to, mainly:
