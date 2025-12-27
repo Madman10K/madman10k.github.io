@@ -1,7 +1,7 @@
 # Hello everyone 👋🏻
 I am Stanislav Vasilev, also known as Madman10K, a 20 years old Bulgarian software developer from Sofia.
 
-I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as a co-founder of [Heapforge](https://heapforge.com). 
+I am mostly known as the founder of [MadLadSquad](https://madladsquad.com) and as one of the co-founders of [Heapforge](https://heapforge.com). 
 I am also known for the numerous projects I started or contributed to, mainly:
 
 1. [The UntitledDesktopEnvironment](https://madladsquad.com/desktop) - a desktop environment for Freedesktop operating systems from scratch
@@ -22,3 +22,5 @@ I am also known for the numerous projects I started or contributed to, mainly:
 Since 2018 I have developed and released over 50 FOSS projects, and growing!
 
 I am also a student at the [Technical University in Sofia, Bulgaria](https://tu-sofia.bg), where I currently study Computer and Software Engineering for my bachelor's degree.
+
+Want to work on something together? [Get in touch](https://i-use-gentoo-btw.com/contact)!
