@@ -157,7 +157,7 @@ between 2018 and now with all skills I have gained as subpoints:
    - Unix IPC
    - LLDB
    - LLDB API
-   - LLVM public API
+   - LLVM API
    - GDB
    - GDB API
    - rr debugger
@@ -246,7 +246,7 @@ Libraries and applications:
 This is my current work experience, outside of my own personal projects:
 
 1. 2020 - 2021: freelance programmer
-1. September 2024 - January 2026: part-time developer at Metacraft Labs Ltd. working on the [CodeTracer debugger](https://codetracer.com)
+1. September 2024 - January 2026: part-time developer at [Metacraft Labs Ltd.](https://papagal.bg/eik/204398799/5187) working on the [CodeTracer debugger](https://codetracer.com)
 
 ## Human languages
 These are the languages I currently know or am learning:
