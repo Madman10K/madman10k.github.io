@@ -125,7 +125,7 @@ between 2018 and now with all skills I have gained as subpoints:
    - RPM package development
    - Arch PKGBUILD package development
    - Ebuild package development
-1. Developer at Metacraft Labs September 2024 - present: working on the [CodeTracer](https://github.com/metacraft-labs/codetracer) time-travelling debugger for Ruby, Noir, C, C++, Rust, Go and more.
+1. Developer at Metacraft Labs September 2024 - January 2026: working on the [CodeTracer](https://github.com/metacraft-labs/codetracer) time-travelling debugger for Ruby, Noir, C, C++, Rust, Go and more.
    - Desktop application development
    - Software internationalisation
    - Linux systems programming
@@ -161,6 +161,11 @@ between 2018 and now with all skills I have gained as subpoints:
    - GDB
    - GDB API
    - rr debugger
+1. Software engineering intern at KPMG February 2026 - April 2026: A mandatory university internship. KPMG's Sofia office mainly centers around cloud consulting:
+   - Git
+   - Bash
+   - C#
+   - Microsoft Azure
 1. Unannounced [Heapforge](https://heapforge.com) project 2025 - present: developing an unannounced project in the field of graphic design
    - SVG manipulation
    - Fonts and typography
@@ -247,6 +252,7 @@ This is my current work experience, outside of my own personal projects:
 
 1. 2020 - 2021: freelance programmer
 1. September 2024 - January 2026: part-time developer at [Metacraft Labs Ltd.](https://papagal.bg/eik/204398799/5187) working on the [CodeTracer debugger](https://codetracer.com)
+1. February 2026 - April 2026: software engineering intern at KPMG
 
 ## Human languages
 These are the languages I currently know or am learning:
