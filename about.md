@@ -262,4 +262,4 @@ These are the languages I currently know or am learning:
 1. German 🇩🇪 - between B1 and B2
 1. Mandarin Chinese(simplified characters) 🇨🇳 - HSK3(new HSK)
 1. Modern Greek 🇬🇷 - just started learning it, still not A1
-1. Russian <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/White-blue-white_flag.svg" width="1em" height="1em" style="vertical-align: middle"/> - A1
+1. Russian <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/White-blue-white_flag.svg" width="1rem" height="0.75rem" style="vertical-align: 0.05rem"/> - A1
