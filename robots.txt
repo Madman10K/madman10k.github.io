@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madman10k.github.io/sitemap.xml
