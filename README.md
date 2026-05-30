@@ -11,6 +11,7 @@ I am also known for the numerous projects I started or contributed to, mainly:
 1. [pkggen](https://pkggen.madladsquad.com) - a tool for automatically updating, testing and deploying desktop packages of new software
 1. [Youyin](https://youyin.madladsquad.com) - a website for learning foreign writing systems
 1. [tiny.lol](https://tiny.lol) - a link shortener website(WIP)
+1. [lasso.domains](https://lasso.domains) - A powerful domain auction aggregator(WIP)
 1. [UntitledImGuiTextUtils](https://github.com/MadLadSquad/UntitledImGuiTextUtils) - a rich text rendering library for [dear imgui](https://github.com/ocornut/imgui)
 1. My contributions to the [Funtoo Linux i18n project](https://www.funtoo.org/Funtoo:Multilingual)
 1. [UntitledIBusHandwriting](https://github.com/MadLadSquad/UntitledIBusHandwriting) - a handwriting IM for ibus with recognition for most writing systems
