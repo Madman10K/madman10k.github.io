@@ -10,3 +10,5 @@ Connect with me [on LinkedIn](https://www.linkedin.com/in/madman10k)!
 I also have a Discord account: @madman10k
 
 Want to play against a really bad chess player 😅? Add me on [Lichess](https://lichess.org/@/Madman10K)!
+
+From time to time I also hop on [monkeytype](https://monkeytype.com/profile/Madman10K).
