@@ -86,6 +86,15 @@ img {
   height: auto;
 }
 
+/* Twemoji: keep emoji images inline and sized like the surrounding text */
+img.emoji {
+  display: inline;
+  height: 1em;
+  width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
+}
+
 code {
   padding: 2px 5px;
   color: var(--code-text-colour);
