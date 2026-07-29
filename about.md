@@ -166,13 +166,16 @@ between 2018 and now with all skills I have gained as subpoints:
    - Bash
    - C#
    - Microsoft Azure
-1. Unannounced [Heapforge](https://heapforge.com) project 2025 - present: developing an unannounced project in the field of graphic design
+1. Co-founder of [Heapforge](https://heapforge.com) November 2024 - present: websites, mobile apps, desktop apps
    - SVG manipulation
    - Fonts and typography
    - C/C++
    - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
-1. Ebooks and online courses 2025 - present: writing ebooks and creating online video courses in the field of desktop application development
-1. Multiple unannounced [Heapforge](https://heapforge.com) projects 2025 - present: mostly websites
+   - Flutter
+   - Dart
+   - Android application development
+   - iOS application development
+   - PDF/epub file processing
 
 ## My projects
 Here is a list of all my projects based on their topic, ranked by size and complexity in descending order:
@@ -218,6 +221,7 @@ Applications:
 
 1. [YouyinWeb](https://github.com/MadLadSquad/YouyinWeb) - a website for learning how to write in any writing system. Hosted at <https://youyin.madladsquad.com>
 1. [tiny.lol](https://tiny.lol) - a URL shortener
+1. [heapforge.com](https://heapforge.com) - The site for Heapforge
 1. [UntitledCommerce](https://github.com/UntitledCommerce) - A university project where I and 3 more people made a full ecommerce solution with an example frontend, backend and control panel
 1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - the website for MadLadSquad. Hosted at <https://madladsquad.com>
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - a hanzi-writer character database for all languages, except Chinese and Japanese
