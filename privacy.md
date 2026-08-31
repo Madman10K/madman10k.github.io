@@ -10,7 +10,7 @@ We are committed to protecting your privacy in accordance with the **General Dat
 The data controller responsible for the processing of data on this website is:
 
 - **Name:** Stanislav Vasilev
-- **Location:** Sofia, Bulgaria (European Union)
+- **Location:** Sofia, Bulgaria
 - **Email:** [contact@i-use-gentoo-btw.com](mailto:contact@i-use-gentoo-btw.com)
 - **Website:** [https://i-use-gentoo-btw.com](https://i-use-gentoo-btw.com)
 
