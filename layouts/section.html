@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ $posts := .RegularPagesRecursive.ByDate.Reverse }}
+{{ partial "post-list.html" (where $posts "Params.archived" "!=" true) }}
+{{ with where $posts "Params.archived" true }}
+<p>{{ $.Params.archivedIntro }}</p>
+{{ partial "post-list.html" . }}
+{{ end }}
+{{ end }}

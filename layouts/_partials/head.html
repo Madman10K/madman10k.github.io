@@ -1,0 +1,31 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ site.Params.description }}">
+<meta name="keywords" content="{{ site.Params.keywords }}">
+<meta name="author" content="{{ site.Params.author }}">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#1d1f27">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="Stanislav Vasilev (Madman10K)">
+<meta property="og:description" content="{{ site.Params.ogDescription }}">
+<meta property="og:image" content="{{ "favicon.jpeg" | absURL }}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta property="twitter:title" content="Stanislav Vasilev (Madman10K)">
+<meta property="twitter:description" content="{{ site.Params.ogDescription }}">
+<meta property="twitter:image" content="{{ "favicon.jpeg" | absURL }}">
+
+<link rel="icon" type="image/jpeg" href="{{ "favicon.jpeg" | relURL }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ $css := slice (resources.Get "css/fonts.css") (resources.Get "css/main.css") (resources.Get "css/syntax.css") | resources.Concat "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" type="text/css">
+
+<!-- Twemoji (self-hosted, see hugo.toml mounts): render all emoji uniformly across platforms/browsers -->
+{{ $js := slice (resources.Get "js/vendor/twemoji.min.js") (resources.Get "js/index.js") | resources.Concat "js/main.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>

@@ -4,73 +4,62 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-The personal website and blog of Stanislav Vasilev (Madman10K), deployed to GitHub Pages
-at `madman10k.github.io` / `i-use-gentoo-btw.com`. Content is authored in Markdown and
-compiled to a static HTML site by a custom build pipeline. There is no application code to
-"run" — the deliverable is static HTML/CSS/JS.
+The personal website and blog of Stanislav Vasilev (Madman10K), deployed to Cloudflare Pages
+at `i-use-gentoo-btw.com`. It is a [Hugo](https://gohugo.io) site
+with custom layouts (no third-party theme). The deliverable is static HTML/CSS/JS in `public/`.
+
+## Layout
+
+- `hugo.toml` — site config (`baseURL` is `https://i-use-gentoo-btw.com/`, site params used in `<head>`).
+- `content/` — Markdown pages: `_index.md` (home), `about.md`, `contact.md`, `privacy.md`,
+  `blog/_index.md` (blog intro), and posts under `blog/<year>/<slug>.md`.
+- `layouts/` — `baseof.html` (page shell), `home.html`, `page.html`, `section.html` (blog index),
+  `404.html`, `robots.txt`, and `_partials/` (`head`, `header`, `footer`, `post-list`).
+- `assets/` — `css/fonts.css` (self-hosted Ubuntu `@font-face`), `css/main.css`, `css/syntax.css` (Chroma, generated with
+  `hugo gen chromastyles --style=onedark`), `js/index.js`. Concatenated/minified/fingerprinted via Hugo Pipes.
+- `static/` — copied verbatim: `favicon.jpeg`, `fonts/`, `images/` (blog images, by post path), `files/`,
+  `.well-known/security.txt`.
+- `package.json` — npm deps for self-hosted third-party assets (Twemoji), mounted into
+  `assets/`/`static/` by `[[module.mounts]]` in `hugo.toml`. Run `npm ci` before building.
 
 ## Authoring content
 
-- Pages are Markdown at the repo root: `README.md` (becomes the home page / `index.html`),
-  `about.md`, `blog.md`, `contact.md`.
-- Blog posts live under `blog/<year>/<slug>.md`. When adding a post, also add a link to it
-  in `blog.md` and an entry in `sitemap.xml`. Post links use the production domain
-  (`https://i-use-gentoo-btw.com/blog/...`), not relative paths.
-- The first `# Heading` in a Markdown file is extracted as the HTML `<title>` (see
-  `generate-html.sh`).
-
-## Build pipeline (how Markdown becomes the site)
-
-The build is driven by **UVKBuildTool** — a C++ static-site generator pulled in as a git
-submodule (`UVKBuildTool/`, from MadLadSquad/UVKBuildTool) and configured by `uvproj.yaml`.
-
-Order of operations:
-1. `uvproj.yaml` declares a `custom-pre-generation-command` that runs **`generate-html.sh`**.
-   This script copies the `*.md` files and `blog/` into `build/`, then uses **pandoc**
-   (`--from=gfm`, `--template ../template.html`) to convert each `.md` to `.html` in
-   parallel (GNU `parallel`). It renames `README.html` → `index.html` and wraps tables in a
-   `.table` div via `sed`.
-2. `template.html` is the page shell. It injects pandoc's `$title$`/`$body$` and `{{ include
-   Components/*.tmpl.html }}` partials (`head`, `header`, `footer`). UVKBuildTool resolves
-   the `{{ include }}` directives; `.tmpl.html` is an intermediate extension (not emitted).
-3. `run.sh` invokes the compiled `UVKBuildTool --build ../../build ../../` to assemble the
-   final site into `build/`.
-4. `ci-clean.sh` flattens `build/` into the repo root and rewrites URLs for production
-   (relative `./` → `https://i-use-gentoo-btw.com/`, strips `.html` and `/index.html`).
-
-`build/` is gitignored. **Do not edit generated `.html` files** — edit the `.md` sources,
-`template.html`, the `Components/*.tmpl.html` partials, or `main.css` instead.
+- Every page has YAML front matter with `title`; the layout renders it as the page `<h1>` and
+  `<title>`, so do **not** add a `# Heading` at the top of the body.
+- Adding a blog post = create `content/blog/<year>/<slug>.md` with front matter:
+  ```yaml
+  ---
+  title: "Full post title"
+  linkTitle: "Shorter title for the blog index"   # optional
+  date: 2026-06-01
+  flag: "🇬🇧"                                      # language flag shown in the index
+  archived: true                                  # optional; lists it under "Archived"
+  ---
+  ```
+  The blog index (`/blog/`) and `sitemap.xml` are generated — no manual edits needed.
+- Link to internal pages with `{{< relref "/contact" >}}` or root-relative trailing-slash paths.
+- Raw HTML in Markdown is allowed (`markup.goldmark.renderer.unsafe`).
+- URLs are Hugo pretty URLs (`/blog/2026/chess-9-mo/`). Pages that existed under the old
+  `.html` URLs carry `aliases:` so those links keep redirecting — keep them.
 
 ## Commands
 
-The build tool must be compiled first (it's C++). Requires `pandoc`, GNU `parallel`,
-`cmake`, `make`, and `libyaml-cpp-dev`.
-
 ```bash
-# One-time: build the UVKBuildTool submodule (also scaffolds UBTCustomFunctions/Translations)
-git submodule update --init --recursive
-cd UVKBuildTool && ./setup-web.sh .. && cd ..
-
-# Generate the site into build/
-./run.sh
-
-# Local preview: UVKBuildTool serves build/ at http://localhost:8080
-# (see localhost-commands in uvproj.yaml — rewrites URLs to localhost, runs python http.server)
+npm ci               # install Twemoji (required before building)
+hugo server          # local preview at http://localhost:1313
+hugo --gc --minify   # production build into public/
 ```
 
-CI (`.github/workflows/pages.yml`) reproduces this on push to `master`: installs the latest
-pandoc via `get-latest-pandoc.py`, runs `setup-web.sh`/`run.sh`/`ci-clean.sh`, minifies JS
-(terser) and CSS (csso), rewrites URLs to production, then deploys to GitHub Pages.
+Deployed by Cloudflare Pages' Git integration (configured in the Cloudflare dashboard, not in
+this repo): it runs `npm ci` (auto-detected from `package-lock.json`), then `hugo --gc --minify`,
+and publishes `public/`. The Hugo version is pinned with the `HUGO_VERSION` env var there.
 
 ## Notable details
 
-- **Two domains:** the site is served from both `madman10k.github.io` and
-  `i-use-gentoo-btw.com`. Production URL rewriting targets `i-use-gentoo-btw.com`.
-- **`UBTCustomFunctions/`** is a UVKBuildTool extension hook (C++). `funcExportMain` is the
-  entry point for custom generation logic; it is currently empty.
-- **`Translations/ui18n-config.yaml`** configures UVKBuildTool's i18n (ui18n) system;
-  currently empty (no active translations).
-- **`update-dependencies.yaml`** runs on a schedule to bump the UVKBuildTool submodule,
-  pushing to an `auto` branch and opening a tracking issue — review those PRs rather than
-  hand-bumping the submodule.
-- `.htaccess` provides extensionless-URL rewriting for non-GitHub-Pages hosting.
+- `baseURL` (and so canonical/OG URLs and the sitemap) targets `i-use-gentoo-btw.com`.
+- `enableGitInfo` is on, so sitemap `<lastmod>` comes from git history.
+- **No third-party requests:** every font, script, emoji and image is self-hosted, and the privacy
+  policy (`content/privacy.md`) says so. Don't add CDN links or hotlinked images — put files in
+  `static/` (or add an npm dep + mount) and update the policy if that ever changes.
+- Emoji are rendered with Twemoji: `twemoji.min.js` is bundled with `assets/js/index.js`
+  (see `head.html`) and SVGs are served from `/twemoji/svg/`.

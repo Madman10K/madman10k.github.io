@@ -1,0 +1,40 @@
+baseURL = "https://i-use-gentoo-btw.com/"
+locale = "en"
+title = "Stanislav Vasilev's Website"
+disableKinds = ["taxonomy", "term", "rss"]
+enableRobotsTXT = true
+enableGitInfo = true
+
+[markup.goldmark.renderer]
+  # Content embeds raw HTML (e.g. <img> tags with inline sizing)
+  unsafe = true
+
+[markup.goldmark.extensions]
+  # Keep straight quotes/dashes as written (matches the old pandoc gfm output)
+  typographer = false
+
+[markup.highlight]
+  noClasses = false
+  guessSyntax = true
+
+[params]
+  author = "Stanislav Vasilev"
+  description = "Personal website and blog of Stanislav Vasilev (Madman10K), a Bulgarian software developer specializing in cross-platform desktop applications."
+  ogDescription = "Personal website and blog of Stanislav Vasilev (Madman10K), specializing in cross-platform development and systems programming."
+  keywords = "Stanislav Vasilev, Madman10K, madman10k, stanislav vasilev, blog, personal website, programming, language learning, computer science, software engineering, linux, macos, windows, android, ios, desktop environment, desktop development, desktop developer, imgui, dear imgui, game development, game engine, game engine development, software development, gentoo, gentoo linux, funtoo, funtoo linux, Technical University of Sofia, systems programming, cross-platform development, software internationalization, i18n, UntitledImGuiFramework, pkggen, Flipper Zero, productivity, B-Trust Linux, QES, C++, Rust, Go, Python, devops, software distribution"
+
+# Third-party assets are installed from npm (package.json) and served from this
+# site instead of external CDNs. Declaring mounts replaces Hugo's defaults, so
+# the default assets/ and static/ mounts are listed again.
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "node_modules/@twemoji/api/dist/twemoji.min.js"
+  target = "assets/js/vendor/twemoji.min.js"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = "node_modules/@twemoji/svg"
+  target = "static/twemoji/svg"

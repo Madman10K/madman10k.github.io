@@ -1,0 +1,5 @@
+<ul>
+{{- range . }}
+<li>{{ .Date.Format "02.01.2006" }} - {{ .Params.flag }} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+{{- end }}
+</ul>

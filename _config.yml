@@ -1,4 +1,0 @@
-# Jekyll skips dotfiles by default; keep .well-known/ (security.txt) and .htaccess in the build
-include:
-  - .well-known
-  - .htaccess

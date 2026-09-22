@@ -1,0 +1,9 @@
+{
+  "name": "madman10k-website",
+  "private": true,
+  "description": "Self-hosted third-party assets for the Hugo site (mounted via hugo.toml)",
+  "dependencies": {
+    "@twemoji/api": "15.1.0",
+    "@twemoji/svg": "15.0.0"
+  }
+}
