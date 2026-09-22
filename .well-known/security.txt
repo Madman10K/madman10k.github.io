@@ -1,0 +1,5 @@
+Contact: mailto:contact@i-use-gentoo-btw.com
+Expires: 2027-09-22T00:00:00.000Z
+Preferred-Languages: en, bg
+Canonical: https://i-use-gentoo-btw.com/.well-known/security.txt
+Canonical: https://madman10k.github.io/.well-known/security.txt
