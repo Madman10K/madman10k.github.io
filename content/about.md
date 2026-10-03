@@ -169,25 +169,62 @@ between 2018 and now with all skills I have gained as subpoints:
    - Bash
    - C#
    - Microsoft Azure
+   - ASP.NET Core
 1. Co-founder of [Heapforge](https://heapforge.com) November 2024 - present: websites, mobile apps, desktop apps
    - SVG manipulation
    - Fonts and typography
    - C/C++
+   - Rust
+   - Shell/Bash scripting
+   - dear imgui
+   - SQL
+   - PostgreSLQ
+   - SQLite
+   - Graphics programming
+   - WebGPU
+   - HLSL
+   - GLSL
+   - WGSL
+   - SPIR-V compiler
+   - Swift
+   - Kotlin
+   - Java
+   - Javascript
+   - Typescript
+   - Docker
+   - Python
    - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
    - Flutter
    - Dart
    - Android application development
    - iOS application development
+   - Flutter for Web
+   - macOS application development
+   - Windows application development
+   - Linux application development
    - PDF/epub file processing
 
 ## My projects
 Here is a list of all my projects based on their topic, ranked by size and complexity in descending order:
 
+### Heapforge projects(launched products)
+I have launched the following projects as part of Heapforge:
+
+1. [Youyin](https://youyin.madladsquad.com) - a website for learning how to write in any writing system.
+1. [tiny.lol](https://tiny.lol) - a URL shortener and ephemeral file pasting service
+1. [lasso.domains](https://lasso.domains) - a domain auction aggregator and sniping tool
+1. [Schrift Studio](https://schrift.app) - a fully-featured font design toolkit for Windows, macOS, Linux + iOS and Android tablets
+1. [schrift.app](https://schrift.app) - the website for Schrift Studio
+1. Heapforge Reader - An ebook reading application for iOS, Android, macOS, Windows and Linux
+1. Heapforge Journal - A journalling application for iOS, Android and the web
+1. [cleanrs.bg](https://cleanrs.bg) - a website for a Bulgarian cleaning company
+1. [heapforge.com](https://heapforge.com) - the website for Heapforge
+
 ### Desktop applications/UntitledDesktopEnvironment
 Libraries and frameworks:
 
 1. [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework) - a fully featured desktop application development toolkit using the [dear imgui](https://github.com/ocornut/imgui) UI library. Try an interactive demo at <https://uimgui.madladsquad.com>
-1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for rubust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time. [Homepage](https://pkggen.madladsquad.com)
+1. [pkggen](https://github.com/MadLadSquad/pkggen) - a tool for robust automatic updating, testing and publishing of desktop packages for multiple package managers and operating systems at the same time. [Homepage](https://pkggen.madladsquad.com)
 1. [UntitledImGuiFileBrowser](https://github.com/MadLadSquad/UntitledImGuiFileBrowser)\* - a file browser library for [dear imgui](https://github.com/ocornut/imgui) used by the [UntitledFileBrowser](https://github.com/MadLadSquad/UntitledFileBrowser) project 
 1. [UntitledI18N](https://github.com/MadLadSquad/UntitledI18N) - an internationalisation library with a custom YAML format written in C++
 1. [UntitledFontManager](https://github.com/MadLadSquad/UntitledFontManager)\* - a cross-platform font manager and fetcher library
@@ -223,13 +260,22 @@ Applications:
 ### Web applications
 
 1. [YouyinWeb](https://github.com/MadLadSquad/YouyinWeb) - a website for learning how to write in any writing system. Hosted at <https://youyin.madladsquad.com>
-1. [tiny.lol](https://tiny.lol) - a URL shortener
+1. [tiny.lol](https://tiny.lol) - a URL shortener and ephemeral file pasting service
+1. [lasso.domains](https://lasso.domains) - a domain auction aggregator and sniping tool
 1. [heapforge.com](https://heapforge.com) - The site for Heapforge
+1. [schrift.app](https://schrift.app) - the website for Schrift Studio
+1. [cleanrs.bg](https://cleanrs.bg) - a website for a Bulgarian cleaning company
 1. [UntitledCommerce](https://github.com/UntitledCommerce) - A university project where I and 3 more people made a full ecommerce solution with an example frontend, backend and control panel
 1. [MadLadSquadSite](https://github.com/MadLadSquad/MadLadSquadSite) - the website for MadLadSquad. Hosted at <https://madladsquad.com>
 1. [hanzi-writer-data-others](https://github.com/MadLadSquad/hanzi-writer-data-others) - a hanzi-writer character database for all languages, except Chinese and Japanese
 1. [hanzi-writer-data-youyin](https://github.com/MadLadSquad/hanzi-writer-data-youyin) - a unified character database for youyin
 1. [YouyinPublicDeckRepository](https://github.com/MadLadSquad/YouyinPublicDeckRepository) - a repository containing all the public decks on the Youyin marketplace
+
+### Mobile/hybrid apps(web + mobile or desktop + mobile)
+
+1. Heapforge Reader - An ebook reading application for iOS, Android, macOS, Windows and Linux
+1. Heapforge Journal - A journalling application for iOS, Android and the web
+1. [Schrift Studio](https://schrift.app) - a fully-featured font design toolkit for Windows, macOS, Linux + iOS and Android tablets
 
 ### Flipper Zero
 Libraries and applications:
