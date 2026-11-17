@@ -193,6 +193,7 @@ between 2018 and now with all skills I have gained as subpoints:
    - Typescript
    - Docker
    - Python
+   - pytourch
    - [UntitledImGuiFramework](https://github.com/MadLadSquad/UntitledImGuiFramework)
    - Flutter
    - Dart
@@ -211,12 +212,17 @@ Here is a list of all my projects based on their topic, ranked by size and compl
 I have launched the following projects as part of Heapforge:
 
 1. [Youyin](https://youyin.madladsquad.com) - a website for learning how to write in any writing system.
+1. [Heapforge WebReview](https://webreview.app) - review and comment on any document, file or website
 1. [tiny.lol](https://tiny.lol) - a URL shortener and ephemeral file pasting service
 1. [lasso.domains](https://lasso.domains) - a domain auction aggregator and sniping tool
 1. [Schrift Studio](https://schrift.app) - a fully-featured font design toolkit for Windows, macOS, Linux + iOS and Android tablets
 1. [schrift.app](https://schrift.app) - the website for Schrift Studio
-1. Heapforge Reader - An ebook reading application for iOS, Android, macOS, Windows and Linux
-1. Heapforge Journal - A journalling application for iOS, Android and the web
+1. [Heapforge Reader](https://reader.heapforge.com) - an ebook reading application for iOS, Android, macOS, Windows and Linux
+1. [Heapforge Journal](https://journal.heapforge.com) - a journalling application for iOS, Android and the web
+1. [Heapforge Markdown](https://markdown.heapforge.com) - a simple markdown, wikitext, asciidoc, LaTeX and rST editor for iOS, Android, macOS, Windows and Linux
+1. [Heapforge HexEditor](https://hex.heapforge.com) - a hex editor for iOS, Android, macOS, Windows and Linux
+1. [Heapforge ShaderUtils](https://shaders.heapforge.com) - a web-based shader playground with live cross-compilation and export to popular shader formats
+1. [CharacterStrokeGenerator](https://github.com/Heapforge/CharacterStrokeGenerator) - a ML model that splits character SVGs into strokes in the format of hanzi-writer
 1. [cleanrs.bg](https://cleanrs.bg) - a website for a Bulgarian cleaning company
 1. [heapforge.com](https://heapforge.com) - the website for Heapforge
 
